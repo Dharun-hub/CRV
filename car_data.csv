@@ -1,0 +1,1445 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+ritz,2014,335000,559000,27000,petrol,Dealer,Manual,1
+sx4,2013,475000,954000,43000,diesel,Dealer,Manual,1
+ciaz,2017,725000,985000,6900,petrol,Dealer,Manual,1
+wagon r,2011,285000,415000,5200,petrol,Dealer,Manual,1
+swift,2014,460000,687000,42450,diesel,Dealer,Manual,1
+vitara brezza,2018,925000,983000,2071,diesel,Dealer,Manual,1
+ciaz,2015,675000,812000,18796,petrol,Dealer,Manual,1
+s cross,2015,650000,861000,33429,diesel,Dealer,Manual,1
+ciaz,2016,850000,889000,20273,diesel,Dealer,Manual,1
+ciaz,2015,745000,892000,42367,diesel,Dealer,Manual,1
+alto 800,2017,285000,360000,2135,petrol,Dealer,Manual,1
+ciaz,2015,685000,1038000,51000,diesel,Dealer,Manual,1
+ciaz,2015,750000,994000,15000,petrol,Dealer,Automatic,1
+ertiga,2015,610000,771000,26000,petrol,Dealer,Manual,1
+dzire,2009,225000,721000,77427,petrol,Dealer,Manual,1
+ertiga,2016,775000,1079000,43000,diesel,Dealer,Manual,1
+wagon r,2015,325000,509000,35500,petrol,Dealer,Manual,1
+sx4,2010,265000,798000,41442,diesel,Dealer,Manual,1
+alto k10,2016,285000,395000,25000,petrol,Dealer,Manual,1
+ignis,2017,490000,571000,2400,petrol,Dealer,Manual,1
+sx4,2011,440000,801000,50000,petrol,Dealer,Automatic,1
+alto k10,2014,225000,346000,45280,petrol,Dealer,Manual,1
+wagon r,2013,229000,441000,56879,petrol,Dealer,Manual,1
+swift,2011,300000,499000,20000,petrol,Dealer,Manual,1
+swift,2013,415000,587000,55138,petrol,Dealer,Manual,1
+swift,2017,600000,649000,16200,petrol,Individual,Manual,1
+alto k10,2010,195000,395000,44542,petrol,Dealer,Manual,1
+ciaz,2015,745000,1038000,45000,diesel,Dealer,Manual,1
+ritz,2012,310000,598000,51439,diesel,Dealer,Manual,1
+ritz,2011,235000,489000,54200,petrol,Dealer,Manual,1
+swift,2014,495000,749000,39000,diesel,Dealer,Manual,1
+ertiga,2014,495000,995000,45000,diesel,Dealer,Manual,1
+dzire,2014,550000,806000,45000,diesel,Dealer,Manual,1
+sx4,2011,295000,774000,49998,petrol,Dealer,Manual,1
+dzire,2015,465000,720000,48767,petrol,Dealer,Manual,1
+maruti 800,2003,65000,228000,127000,petrol,Individual,Manual,1
+alto k10,2016,300000,376000,10079,petrol,Dealer,Manual,1
+sx4,2003,225000,798000,62000,petrol,Dealer,Manual,1
+baleno,2016,585000,787000,24524,petrol,Dealer,Automatic,1
+alto k10,2014,255000,398000,46706,petrol,Dealer,Manual,1
+sx4,2008,195000,715000,58000,petrol,Dealer,Manual,1
+dzire,2014,550000,806000,45780,diesel,Dealer,Manual,1
+omni,2012,125000,269000,50000,petrol,Dealer,Manual,1
+ciaz,2014,750000,1204000,15000,petrol,Dealer,Automatic,1
+ritz,2013,265000,489000,64532,petrol,Dealer,Manual,1
+wagon r,2006,105000,415000,65000,petrol,Dealer,Manual,1
+ertiga,2015,580000,771000,25870,petrol,Dealer,Manual,1
+ciaz,2017,775000,929000,37000,petrol,Dealer,Automatic,1
+fortuner,2012,149000,3061000,104707,diesel,Dealer,Automatic,1
+fortuner,2015,2300000,3061000,40000,diesel,Dealer,Automatic,1
+innova,2017,1800000,1977000,15000,diesel,Dealer,Automatic,1
+fortuner,2013,1600000,3061000,135000,diesel,Individual,Automatic,1
+innova,2005,175000,1021000,90000,petrol,Individual,Manual,1
+corolla altis,2009,360000,1504000,70000,petrol,Dealer,Automatic,0
+etios cross,2015,450000,727000,40534,petrol,Dealer,Manual,1
+corolla altis,2010,475000,1854000,50000,petrol,Dealer,Manual,1
+etios g,2014,410000,680000,39485,petrol,Dealer,Manual,1
+fortuner,2014,1999000,3596000,41000,diesel,Dealer,Automatic,1
+corolla altis,2013,695000,1861000,40001,petrol,Dealer,Manual,1
+etios cross,2015,450000,770000,40588,petrol,Dealer,Manual,1
+fortuner,2014,1875000,3596000,78000,diesel,Dealer,Automatic,1
+fortuner,2015,2350000,3596000,47000,diesel,Dealer,Automatic,0
+fortuner,2017,3300000,3623000,6000,diesel,Dealer,Automatic,0
+etios liva,2014,475000,695000,45000,diesel,Dealer,Manual,1
+innova,2017,1975000,2315000,11000,petrol,Dealer,Automatic,1
+fortuner,2010,925000,2045000,59000,diesel,Dealer,Manual,1
+corolla altis,2011,435000,1374000,88000,petrol,Dealer,Manual,1
+corolla altis,2016,1425000,2091000,12000,petrol,Dealer,Manual,1
+etios liva,2014,395000,676000,71000,diesel,Dealer,Manual,1
+corolla altis,2011,450000,1248000,45000,diesel,Dealer,Manual,1
+corolla altis,2013,745000,1861000,56001,petrol,Dealer,Manual,1
+etios liva,2011,365000,571000,43000,petrol,Dealer,Manual,1
+etios cross,2014,490000,893000,83000,diesel,Dealer,Manual,1
+etios g,2015,395000,680000,36000,petrol,Dealer,Manual,1
+corolla altis,2013,550000,1468000,72000,petrol,Dealer,Manual,1
+corolla,2004,150000,1235000,135154,petrol,Dealer,Automatic,1
+corolla altis,2010,525000,2283000,80000,petrol,Dealer,Automatic,1
+fortuner,2012,1450000,3061000,89000,diesel,Dealer,Automatic,1
+corolla altis,2016,1473000,1489000,23000,diesel,Dealer,Manual,1
+etios gd,2015,475000,785000,40000,diesel,Dealer,Manual,1
+innova,2017,2300000,2539000,15000,diesel,Dealer,Automatic,1
+innova,2015,1250000,1346000,38000,diesel,Dealer,Manual,1
+innova,2005,349000,1346000,197176,diesel,Dealer,Manual,1
+camry,2006,1500000,2373000,142000,petrol,Individual,Automatic,3
+land cruiser,2010,3500000,9260000,78000,diesel,Dealer,Manual,1
+corolla altis,2012,590000,1374000,56000,petrol,Dealer,Manual,1
+etios liva,2013,345000,605000,47000,petrol,Dealer,Manual,1
+etios g,2014,475000,676000,40000,petrol,Dealer,Manual,1
+corolla altis,2009,380000,1861000,62000,petrol,Dealer,Manual,1
+innova,2014,1125000,1609000,58242,diesel,Dealer,Manual,1
+innova,2005,751000,1370000,75000,petrol,Dealer,Manual,1
+fortuner,2015,2300000,3061000,40000,diesel,Dealer,Automatic,1
+corolla altis,2008,400000,2278000,89000,petrol,Dealer,Automatic,1
+corolla altis,2012,585000,1861000,72000,petrol,Dealer,Manual,1
+innova,2016,2075000,2539000,29000,diesel,Dealer,Automatic,1
+corolla altis,2017,1700000,1864000,8700,petrol,Dealer,Manual,1
+corolla altis,2013,705000,1861000,45000,petrol,Dealer,Manual,1
+fortuner,2010,965000,2045000,50024,diesel,Dealer,Manual,1
+i20,2010,325000,679000,58000,diesel,Dealer,Manual,1
+grand i10,2015,440000,570000,28200,petrol,Dealer,Manual,1
+i10,2011,295000,460000,53460,petrol,Dealer,Manual,1
+eon,2015,275000,443000,28282,petrol,Dealer,Manual,1
+grand i10,2016,525000,570000,3493,petrol,Dealer,Manual,1
+xcent,2017,575000,713000,12479,petrol,Dealer,Manual,2
+grand i10,2015,515000,570000,34797,petrol,Dealer,Automatic,3
+i20,2017,790000,810000,3435,petrol,Dealer,Manual,1
+grand i10,2015,485000,570000,21125,diesel,Dealer,Manual,1
+i10,2012,310000,460000,35775,petrol,Dealer,Manual,1
+elantra,2015,1175000,1479000,43535,diesel,Dealer,Manual,1
+creta,2016,1125000,1360000,22671,petrol,Dealer,Manual,1
+i20,2011,290000,679000,31604,petrol,Dealer,Manual,1
+grand i10,2017,525000,570000,20114,petrol,Dealer,Manual,1
+verna,2012,450000,940000,36100,petrol,Dealer,Manual,1
+eon,2016,290000,443000,12500,petrol,Dealer,Manual,1
+eon,2016,315000,443000,15000,petrol,Dealer,Manual,1
+verna,2014,645000,940000,45078,petrol,Dealer,Manual,1
+verna,2012,450000,940000,36000,petrol,Dealer,Manual,1
+eon,2017,350000,443000,38488,petrol,Dealer,Manual,1
+i20,2013,450000,679000,32000,petrol,Dealer,Automatic,1
+i20,2014,600000,760000,77632,diesel,Dealer,Manual,1
+verna,2015,825000,940000,61381,diesel,Dealer,Manual,1
+verna,2013,511000,940000,36198,petrol,Dealer,Automatic,1
+i10,2011,270000,460000,22517,petrol,Dealer,Manual,1
+grand i10,2015,525000,570000,24678,petrol,Dealer,Manual,1
+i10,2011,255000,443000,57000,petrol,Dealer,Manual,1
+verna,2012,495000,940000,60000,diesel,Dealer,Manual,1
+i20,2012,310000,679000,52132,diesel,Dealer,Manual,1
+verna,2013,615000,940000,45000,diesel,Dealer,Manual,1
+verna,2017,925000,940000,15001,petrol,Dealer,Manual,1
+elantra,2015,1145000,1479000,12900,petrol,Dealer,Automatic,1
+grand i10,2013,390000,570000,53000,diesel,Dealer,Manual,1
+grand i10,2015,550000,570000,4492,petrol,Dealer,Manual,1
+verna,2017,910000,940000,15141,petrol,Dealer,Manual,1
+eon,2016,310000,443000,11849,petrol,Dealer,Manual,1
+creta,2015,1125000,1360000,68000,diesel,Dealer,Manual,1
+verna,2013,480000,940000,60241,petrol,Dealer,Manual,1
+eon,2012,200000,443000,23709,petrol,Dealer,Manual,1
+verna,2012,535000,940000,32322,diesel,Dealer,Manual,1
+xcent,2015,475000,713000,35866,petrol,Dealer,Manual,1
+xcent,2014,440000,713000,34000,petrol,Dealer,Manual,1
+i20,2016,325000,760000,7000,petrol,Dealer,Manual,1
+verna,2013,595000,940000,49000,diesel,Dealer,Manual,1
+verna,2012,520000,940000,71000,diesel,Dealer,Manual,1
+i20,2012,375000,679000,35000,petrol,Dealer,Manual,1
+verna,2015,595000,940000,36000,petrol,Dealer,Manual,1
+i10,2013,400000,460000,30000,petrol,Dealer,Manual,1
+i20,2016,525000,760000,17000,petrol,Dealer,Manual,1
+creta,2016,1290000,1360000,35934,diesel,Dealer,Manual,1
+city,2013,500000,990000,56701,petrol,Dealer,Manual,1
+brio,2015,540000,682000,31427,petrol,Dealer,Automatic,1
+city,2014,720000,990000,48000,diesel,Dealer,Manual,1
+city,2013,525000,990000,54242,petrol,Dealer,Manual,1
+brio,2012,300000,535000,53675,petrol,Dealer,Manual,1
+city,2016,1052000,1360000,49562,petrol,Dealer,Manual,1
+city,2015,850000,1360000,40324,petrol,Dealer,Manual,1
+city,2015,840000,1360000,25000,petrol,Dealer,Manual,1
+amaze,2014,390000,700000,36054,petrol,Dealer,Manual,1
+city,2016,915000,1360000,29223,petrol,Dealer,Manual,1
+brio,2016,550000,597000,5600,petrol,Dealer,Manual,1
+amaze,2015,400000,580000,40023,petrol,Dealer,Manual,1
+jazz,2016,660000,770000,16002,petrol,Dealer,Manual,1
+amaze,2015,400000,700000,40026,petrol,Dealer,Manual,1
+jazz,2017,650000,870000,21200,petrol,Dealer,Manual,1
+amaze,2014,365000,700000,35000,petrol,Dealer,Manual,1
+city,2016,835000,940000,19434,diesel,Dealer,Manual,1
+brio,2017,480000,580000,19000,petrol,Dealer,Manual,1
+city,2015,670000,1000000,18828,petrol,Dealer,Manual,1
+city,2011,410000,1000000,69341,petrol,Dealer,Manual,1
+city,2009,300000,1000000,69562,petrol,Dealer,Manual,1
+city,2015,750000,1000000,27600,petrol,Dealer,Manual,1
+jazz,2010,225000,750000,61203,petrol,Dealer,Manual,1
+brio,2014,530000,680000,16500,petrol,Dealer,Manual,1
+city,2016,1090000,1360000,30753,petrol,Dealer,Automatic,1
+city,2015,865000,1360000,24800,petrol,Dealer,Manual,1
+city,2015,970000,1360000,21780,petrol,Dealer,Manual,1
+jazz,2016,600000,840000,4000,petrol,Dealer,Manual,1
+city,2014,625000,1360000,40126,petrol,Dealer,Manual,1
+brio,2015,525000,590000,14465,petrol,Dealer,Manual,1
+city,2006,210000,760000,50456,petrol,Dealer,Manual,1
+city,2014,825000,1400000,63000,diesel,Dealer,Manual,1
+city,2016,899000,1180000,9010,petrol,Dealer,Manual,1
+brio,2013,350000,590000,9800,petrol,Dealer,Manual,1
+jazz,2016,740000,850000,15059,petrol,Dealer,Automatic,1
+jazz,2016,565000,790000,28569,petrol,Dealer,Manual,1
+amaze,2015,575000,750000,44000,petrol,Dealer,Automatic,1
+city,2015,840000,1360000,34000,petrol,Dealer,Manual,1
+city,2016,1011000,1360000,10980,petrol,Dealer,Manual,1
+amaze,2014,450000,640000,19000,petrol,Dealer,Manual,1
+brio,2015,554000,610000,31427,petrol,Dealer,Manual,1
+jazz,2016,640000,840000,12000,petrol,Dealer,Manual,1
+city,2010,325000,990000,38000,petrol,Dealer,Manual,1
+amaze,2014,375000,680000,33019,petrol,Dealer,Manual,1
+city,2015,855000,1309000,60076,diesel,Dealer,Manual,1
+city,2016,950000,1160000,33988,diesel,Dealer,Manual,1
+brio,2015,400000,590000,60000,petrol,Dealer,Manual,1
+city,2009,335000,1100000,87934,petrol,Dealer,Manual,1
+city,2017,1150000,1250000,9000,diesel,Dealer,Manual,1
+brio,2016,530000,590000,5464,petrol,Dealer,Manual,1
+swift,2012,250000,400000,60000,petrol,Dealer,Manual,1
+grand i10,2013,675000,900000,90000,diesel,Individual,Manual,1
+innova,2013,675000,900000,90000,diesel,Individual,Manual,1
+amaze,2014,400000,550000,65000,petrol,Dealer,Manual,1
+dzire,2017,650000,800000,50000,petrol,Dealer,Manual,1
+verna,2018,850000,1100000,30000,diesel,Dealer,Automatic,1
+Maruti Suzuki Swift,2012,250000,400000,60000,petrol,Dealer,Manual,1
+Hyundai Grand i10,2015,375000,500000,35000,petrol,Dealer,Manual,1
+Toyota Innova,2013,675000,900000,90000,diesel,Individual,Manual,1
+Honda Amaze,2014,400000,550000,65000,petrol,Dealer,Manual,1
+Maruti Suzuki Dzire,2017,650000,800000,50000,petrol,Dealer,Manual,1
+Hyundai Verna,2018,850000,1100000,30000,diesel,Dealer,Automatic,1
+Ford Aspire,2015,325000,450000,55000,petrol,Dealer,Manual,1
+Renault Duster,2013,400000,550000,75000,diesel,Individual,Manual,2
+Mahindra Scorpio,2014,575000,750000,80000,diesel,Individual,Manual,2
+Honda City,2015,725000,950000,55000,petrol,Dealer,Automatic,1
+Maruti Suzuki Swift,2013,375000,500000,80000,petrol,Individual,Manual,2
+Hyundai Creta,2019,1150000,1500000,20000,diesel,Dealer,Automatic,1
+Toyota Fortuner,2016,2050000,2650000,75000,diesel,Individual,Manual,1
+Ford EcoSport,2017,725000,950000,40000,petrol,Dealer,Automatic,1
+Maruti Suzuki Alto K10,2014,275000,350000,70000,petrol,Individual,Manual,1
+Mahindra XUV500,2015,1000000,1350000,60000,diesel,Dealer,Manual,1
+Maruti Suzuki Baleno,2016,550000,750000,60000,petrol,Dealer,Manual,1
+Hyundai Santro Xing,2012,200000,325000,75000,petrol,Dealer,Manual,2
+Honda WR-V,2018,875000,1150000,40000,petrol,Dealer,Manual,1
+Mahindra Thar,2020,1600000,2050000,10000,diesel,Dealer,Manual,1
+Tata Nexon,2017,675000,850000,45000,diesel,Dealer,Manual,1
+Maruti Suzuki Ertiga,2015,500000,650000,80000,diesel,Dealer,Manual,2
+Ford Figo,2013,250000,400000,60000,petrol,Dealer,Manual,1
+Renault Kwid,2019,375000,500000,15000,petrol,Dealer,Manual,1
+Toyota Corolla Altis,2010,325000,475000,85000,petrol,Dealer,Manual,3
+Hyundai Elite i20,2014,425000,550000,70000,petrol,Dealer,Manual,1
+Volkswagen Polo,2016,475000,600000,50000,petrol,Dealer,Manual,1
+Honda Jazz,2017,650000,850000,35000,petrol,Dealer,Manual,1
+Mahindra Verito,2012,200000,350000,75000,diesel,Dealer,Manual,2
+Hyundai i10,2010,150000,250000,90000,petrol,Dealer,Manual,3
+Maruti Suzuki Celerio,2015,350000,475000,55000,petrol,Dealer,Automatic,1
+Tata Tiago,2018,425000,550000,30000,petrol,Dealer,Manual,1
+Ford Endeavour,2014,950000,1300000,80000,diesel,Dealer,Automatic,2
+Maruti Suzuki Swift Dzire,2013,350000,500000,70000,diesel,Dealer,Manual,1
+Hyundai Creta,2018,1200000,1600000,45000,diesel,Dealer,Automatic,1
+Mahindra XUV500,2015,900000,1200000,70000,diesel,Dealer,Manual,1
+Honda City,2014,650000,900000,65000,petrol,Dealer,Manual,1
+Maruti Suzuki Wagon R,2018,400000,550000,25000,petrol,Dealer,Manual,1
+ata Indigo,2012,200000,350000,80000,diesel,Dealer,Manual,1
+Toyota Innova,2010,550000,750000,120000,diesel,Dealer,Manual,2
+Renault Duster,2015,600000,800000,50000,diesel,Dealer,Manual,1
+Maruti Suzuki Alto,2010,150000,250000,60000,petrol,Dealer,Manual,2
+Honda Amaze,2014,450000,650000,70000,petrol,Dealer,Manual,1
+Maruti Suzuki Swift,2016,575000,750000,45000,petrol,Dealer,Manual,1
+Toyota Fortuner,2013,1300000,1700000,80000,diesel,Dealer,Automatic,1
+Hyundai Verna,2011,300000,500000,100000,petrol,Dealer,Manual,2
+Ford EcoSport,2017,800000,1050000,35000,petrol,Dealer,Manual,1
+Renault Captur,2018,900000,1200000,20000,diesel,Dealer,Manual,1
+Hyundai Creta,2018,1200000,1600000,45000,diesel,Dealer,Automatic,1
+Mahindra XUV500,2015,900000,1200000,70000,diesel,Dealer,Manual,1
+Honda City,2014,650000,900000,65000,petrol,Dealer,Manual,1
+Maruti Suzuki Wagon R,2018,400000,550000,25000,petrol,Dealer,Manual,1
+Tata Indigo,2012,200000,350000,80000,diesel,Dealer,Manual,1
+Toyota Innova,2010,550000,750000,120000,diesel,Dealer,Manual,2
+Renault Duster,2015,600000,800000,50000,diesel,Dealer,Manual,1
+Maruti Suzuki Alto,2010,150000,250000,60000,petrol,Dealer,Manual,2
+Honda Amaze,2014,450000,650000,70000,petrol,Dealer,Manual,1
+Maruti Suzuki Swift,2016,575000,750000,45000,petrol,Dealer,Manual,1
+Toyota Fortuner,2013,1300000,1700000,80000,diesel,Dealer,Automatic,1
+Hyundai Verna,2011,300000,500000,100000,petrol,Dealer,Manual,2
+Ford EcoSport,2017,800000,1050000,35000,petrol,Dealer,Manual,1
+Renault Captur,2018,900000,1200000,20000,diesel,Dealer,Manual,1
+Maruti Suzuki Alto,2013,200000,300000,70000,petrol,Dealer,Manual,1
+Hyundai i10,2010,250000,400000,90000,petrol,Individual,Manual,2
+Maruti Suzuki Baleno,2017,600000,850000,50000,petrol,Dealer,Manual,1
+Mahindra Scorpio,2014,750000,1050000,80000,diesel,Dealer,Manual,2
+Honda Civic,2009,250000,550000,110000,petrol,Dealer,Manual,3
+Ford Figo,2015,350000,500000,60000,diesel,Dealer,Manual,1
+Toyota Corolla Altis,2013,750000,1100000,80000,diesel,Dealer,Automatic,1
+Hyundai Grand i10,2016,400000,600000,40000,petrol,Dealer,Manual,1
+Volkswagen Polo,2014,450000,650000,70000,diesel,Dealer,Manual,1
+Renault Kwid,2018,250000,400000,30000,petrol,Dealer,Manual,1
+Maruti Suzuki Ertiga,2015,550000,800000,60000,diesel,Dealer,Manual,2
+Honda WR-V,2017,700000,950000,40000,diesel,Dealer,Manual,1
+Hyundai Santro Xing,2012,200000,300000,80000,petrol,Dealer,Manual,1
+Tata Nexon,2019,900000,1250000,25000,diesel,Dealer,Manual,1
+Toyota Etios Liva,2014,350000,550000,60000,petrol,Dealer,Manual,1
+Maruti Suzuki Vitara Brezza,2018,850000,1150000,40000,petrol,Dealer,Manual,1
+Volkswagen Vento,2015,575000,825000,70000,diesel,Dealer,Automatic,1
+Toyota Innova Crysta,2017,1450000,2050000,50000,diesel,Dealer,Manual,1
+Hyundai Verna,2014,425000,625000,80000,petrol,Dealer,Manual,2
+Ford EcoSport,2016,700000,1000000,60000,diesel,Dealer,Automatic,1
+Maruti Suzuki Swift Dzire,2012,300000,500000,90000,diesel,Dealer,Manual,1
+Hyundai Elite i20,2016,475000,700000,50000,petrol,Dealer,Manual,1
+Mahindra XUV500,2013,725000,1000000,90000,diesel,Dealer,Manual,2
+Renault Duster,2015,600000,900000,70000,diesel,Dealer,Manual,1
+Maruti Suzuki Ciaz,2016,675000,950000,60000,petrol,Dealer,Automatic,1
+Honda City,2011,325000,600000,100000,petrol,Dealer,Manual,2
+Hyundai Tucson,2017,1550000,2200000,40000,diesel,Dealer,Automatic,1
+Mahindra Thar,2020,1275000,1800000,10000,petrol,Dealer,Manual,1
+Maruti Suzuki S-Cross,2017,725000,1050000,60000,diesel,Dealer,Manual,1
+Toyota Fortuner,2013,1450000,2000000,90000,diesel,Dealer,Automatic,2
+Hyundai Venue,2019,950000,1300000,30000,petrol,Dealer,Manual,1
+Kia Seltos,2020,1200000,1650000,20000,diesel,Dealer,Automatic,1
+Tata Nexon,2019,750000,1050000,40000,diesel,Dealer,Manual,1
+Volkswagen Polo,2013,300000,500000,70000,diesel,Dealer,Manual,1
+Renault Triber,2020,675000,950000,15000,petrol,Dealer,Manual,1
+Honda Amaze,2017,550000,800000,60000,diesel,Dealer,Manual,1
+Maruti Suzuki Vitara Brezza,2018,725000,1050000,50000,diesel,Dealer,Automatic,1
+Hyundai Grand i10 Nios,2019,475000,700000,25000,petrol,Dealer,Manual,1
+Mahindra Bolero,2015,600000,850000,80000,diesel,Dealer,Manual,2
+Ford Figo,2014,275000,450000,90000,petrol,Dealer,Manual,2
+Maruti Suzuki Baleno,2018,575000,850000,40000,petrol,Dealer,Manual,1
+Tata Tiago,2017,350000,550000,50000,petrol,Dealer,Manual,1
+Honda WR-V,2020,900000,1250000,20000,diesel,Dealer,Manual,1
+Toyota Etios Liva,2013,275000,450000,90000,petrol,Dealer,Manual,2
+Mahindra Scorpio,2014,650000,950000,90000,diesel,Dealer,Manual,2
+Maruti Suzuki Wagon R,2016,350000,550000,60000,petrol,Dealer,Manual,1
+Hyundai Creta,2017,1150000,1650000,50000,petrol,Dealer,Automatic,1
+Tata Altroz,2020,650000,900000,25000,petrol,Dealer,Manual,1
+Honda Amaze,2015,540000,645000,60000,petrol,Dealer,Manual,2
+Ford Aspire,2017,650000,815000,45000,petrol,Dealer,Manual,2
+alto 800,2016,450000,600000,50000,petrol,Dealer,Manual,1
+alto k10,2014,500000,625000,40000,diesel,Dealer,Automatic,2
+ata Indigo,2013,425000,645000,60000,petrol,Dealer,Manual,1
+amaze,2017,650000,850000,35000,diesel,Dealer,Automatic,1
+ciaz,2014,650000,850000,50000,diesel,Dealer,Automatic,1
+city,2013,650000,800000,45000,diesel,Dealer,Manual,2
+corolla,2015,550000,860000,50000,diesel,Dealer,Manual,1
+corolla altis,2016,750000,1050000,25000,diesel,Dealer,Manual,1
+creta,2016,850000,1250000,45000,diesel,Dealer,Manual,1
+Renault Captur,2014,650000,800000,55000,diesel,Individual,Manual,1
+ritz,2012,310000,598000,51439,diesel,Dealer,Manual,1
+ritz,2011,235000,489000,54200,petrol,Dealer,Manual,1
+swift,2014,495000,749000,39000,diesel,Dealer,Manual,1
+ertiga,2014,600000,995000,45000,diesel,Dealer,Manual,1
+dzire,2014,550000,806000,45000,diesel,Dealer,Manual,1
+sx4,2011,295000,774000,49998,CNG,Dealer,Manual,1
+dzire,2015,465000,720000,48767,petrol,Dealer,Manual,1
+maruti 800,2003,35000,228000,127000,petrol,Individual,Manual,1
+alto k10,2016,300000,376000,10079,petrol,Dealer,Manual,1
+sx4,2003,225000,798000,62000,petrol,Dealer,Manual,1
+baleno,2016,585000,787000,24524,petrol,Dealer,Automatic,1
+alto k10,2014,255000,398000,46706,petrol,Dealer,Manual,1
+sx4,2008,195000,715000,58000,petrol,Dealer,Manual,1
+dzire,2014,550000,806000,45780,diesel,Dealer,Manual,1
+omni,2012,125000,269000,50000,petrol,Dealer,Manual,1
+ciaz,2014,750000,1204000,15000,petrol,Dealer,Automatic,1
+ritz,2013,265000,489000,64532,petrol,Dealer,Manual,1
+wagon r,2006,105000,415000,65000,petrol,Dealer,Manual,1
+ertiga,2015,580000,771000,25870,petrol,Dealer,Manual,1
+ciaz,2017,775000,929000,37000,petrol,Dealer,Automatic,1
+Honda City,2014,650000,900000,65000,petrol,Dealer,Manual,1
+Maruti Suzuki Wagon R,2018,400000,550000,25000,petrol,Dealer,Manual,1
+ata Indigo,2012,200000,350000,80000,diesel,Dealer,Manual,1
+Toyota Innova,2010,550000,750000,120000,diesel,Dealer,Manual,2
+Renault Duster,2015,600000,800000,50000,diesel,Dealer,Manual,1
+Maruti Suzuki Alto,2010,150000,250000,60000,petrol,Dealer,Manual,2
+Honda Amaze,2014,450000,650000,70000,petrol,Dealer,Manual,1
+Maruti Suzuki Swift,2016,575000,750000,45000,petrol,Dealer,Manual,1
+Toyota Fortuner,2013,1300000,1700000,80000,diesel,Dealer,Automatic,1
+Hyundai Verna,2011,300000,500000,100000,petrol,Dealer,Manual,2
+Ford EcoSport,2017,800000,1050000,35000,petrol,Dealer,Manual,1
+Renault Captur,2018,900000,1200000,20000,diesel,Dealer,Manual,1
+Hyundai Creta,2018,1200000,1600000,45000,diesel,Dealer,Automatic,1
+Mahindra XUV500,2015,900000,1200000,70000,diesel,Dealer,Manual,1
+Honda City,2014,650000,900000,65000,petrol,Dealer,Manual,1
+Maruti Suzuki Wagon R,2018,400000,550000,25000,petrol,Dealer,Manual,1
+Tata Indigo,2012,200000,350000,80000,diesel,Dealer,Manual,1
+Toyota Innova,2010,550000,750000,120000,diesel,Dealer,Manual,2
+Renault Duster,2015,600000,800000,50000,diesel,Dealer,Manual,1
+Maruti Suzuki Alto,2010,150000,250000,60000,petrol,Dealer,Manual,2
+Honda Amaze,2014,450000,650000,70000,petrol,Dealer,Manual,1
+Maruti Suzuki Swift,2016,575000,750000,45000,petrol,Dealer,Manual,1
+Toyota Fortuner,2013,1300000,1700000,80000,diesel,Dealer,Automatic,1
+eon,2016,290000,443000,12500,petrol,Dealer,Manual,1
+eon,2016,315000,443000,15000,petrol,Dealer,Manual,1
+verna,2014,645000,940000,45078,petrol,Dealer,Manual,1
+verna,2012,450000,940000,36000,petrol,Dealer,Manual,1
+eon,2017,350000,443000,38488,petrol,Dealer,Manual,1
+i20,2013,450000,679000,32000,petrol,Dealer,Automatic,1
+i20,2014,600000,760000,77632,diesel,Dealer,Manual,1
+verna,2015,825000,940000,61381,diesel,Dealer,Manual,1
+verna,2013,511000,940000,36198,petrol,Dealer,Automatic,1
+i10,2011,270000,460000,22517,petrol,Dealer,Manual,1
+grand i10,2015,525000,570000,24678,petrol,Dealer,Manual,1
+i10,2011,255000,443000,57000,petrol,Dealer,Manual,1
+verna,2012,495000,940000,60000,diesel,Dealer,Manual,1
+i20,2012,310000,679000,52132,diesel,Dealer,Manual,1
+verna,2013,615000,940000,45000,diesel,Dealer,Manual,1
+verna,2017,925000,940000,15001,petrol,Dealer,Manual,1
+elantra,2015,1145000,1479000,12900,petrol,Dealer,Automatic,1
+grand i10,2013,390000,570000,53000,diesel,Dealer,Manual,1
+grand i10,2015,550000,570000,4492,petrol,Dealer,Manual,1
+verna,2017,910000,940000,15141,petrol,Dealer,Manual,1
+eon,2016,310000,443000,11849,petrol,Dealer,Manual,1
+creta,2015,1125000,1360000,68000,diesel,Dealer,Manual,1
+verna,2013,480000,940000,60241,petrol,Dealer,Manual,1
+eon,2012,200000,443000,23709,petrol,Dealer,Manual,1
+verna,2012,535000,940000,32322,diesel,Dealer,Manual,1
+xcent,2015,475000,713000,35866,petrol,Dealer,Manual,1
+xcent,2014,440000,713000,34000,petrol,Dealer,Manual,1
+ritz,2012,310000,598000,51439,diesel,Dealer,Manual,1
+ritz,2011,235000,489000,54200,petrol,Dealer,Manual,1
+swift,2014,495000,749000,39000,diesel,Dealer,Manual,1
+ertiga,2014,600000,995000,45000,diesel,Dealer,Manual,1
+dzire,2014,550000,806000,45000,diesel,Dealer,Manual,1
+sx4,2011,295000,774000,49998,CNG,Dealer,Manual,1
+dzire,2015,465000,720000,48767,petrol,Dealer,Manual,1
+maruti 800,2003,35000,228000,127000,petrol,Individual,Manual,1
+alto k10,2016,300000,376000,10079,petrol,Dealer,Manual,1
+sx4,2003,225000,798000,62000,petrol,Dealer,Manual,1
+baleno,2016,585000,787000,24524,petrol,Dealer,Automatic,1
+alto k10,2014,255000,398000,46706,petrol,Dealer,Manual,1
+sx4,2008,195000,715000,58000,petrol,Dealer,Manual,1
+dzire,2014,550000,806000,45780,diesel,Dealer,Manual,1
+omni,2012,125000,269000,50000,petrol,Dealer,Manual,1
+ciaz,2014,750000,1204000,15000,petrol,Dealer,Automatic,1
+ritz,2013,265000,489000,64532,petrol,Dealer,Manual,1
+wagon r,2006,105000,415000,65000,petrol,Dealer,Manual,1
+ertiga,2015,580000,771000,25870,petrol,Dealer,Manual,1
+ciaz,2017,775000,929000,37000,petrol,Dealer,Automatic,1
+ciaz,2015,750000,994000,15000,petrol,Dealer,Automatic,1
+ertiga,2015,610000,771000,26000,petrol,Dealer,Manual,1
+dzire,2009,225000,721000,77427,petrol,Dealer,Manual,1
+ertiga,2016,775000,1079000,43000,diesel,Dealer,Manual,1
+ertiga,2015,725000,1079000,41678,diesel,Dealer,Manual,1
+ertiga,2016,775000,1079000,43000,diesel,Dealer,Manual,1
+wagon r,2015,325000,509000,35500,CNG,Dealer,Manual,1
+sx4,2010,265000,798000,41442,petrol,Dealer,Manual,1
+alto k10,2016,285000,395000,25000,petrol,Dealer,Manual,1
+ignis,2017,490000,571000,2400,petrol,Dealer,Manual,1
+sx4,2011,440000,801000,50000,petrol,Dealer,Automatic,1
+alto k10,2014,250000,346000,45280,petrol,Dealer,Manual,1
+wagon r,2013,290000,441000,56879,petrol,Dealer,Manual,1
+swift,2011,300000,499000,20000,petrol,Dealer,Manual,1
+swift,2013,415000,587000,55138,petrol,Dealer,Manual,1
+swift,2017,600000,649000,16200,petrol,Individual,Manual,1
+alto k10,2010,195000,395000,44542,petrol,Dealer,Manual,1
+ciaz,2015,745000,1038000,45000,diesel,Dealer,Manual,1
+ritz,2012,310000,598000,51439,diesel,Dealer,Manual,1
+ritz,2011,235000,489000,54200,petrol,Dealer,Manual,1
+swift,2014,495000,749000,39000,diesel,Dealer,Manual,1
+ertiga,2014,600000,995000,45000,diesel,Dealer,Manual,1
+dzire,2014,550000,806000,45000,diesel,Dealer,Manual,1
+sx4,2011,295000,774000,49998,CNG,Dealer,Manual,1
+dzire,2015,465000,720000,48767,petrol,Dealer,Manual,1
+maruti 800,2003,35000,228000,127000,petrol,Individual,Manual,1
+alto k10,2016,300000,376000,10079,petrol,Dealer,Manual,1
+sx4,2003,225000,798000,62000,petrol,Dealer,Manual,1
+maruti swift dzire,2012,364299,365029,69029,petrol,Dealer,manual,3
+hyundai eon,2013,216799,,45721,petrol,Dealer,manual,1
+honda amaze,2013,387399,,37395,diesel,Dealer,manual,1
+hyundai i20,2012,364699,,37652,petrol,Dealer,manual,3
+hyundai creta,2017,1082011,1125840,53648,diesel,Dealer,automatic,1
+renault duster,2016,695999,,55724,petrol,Dealer,manual,1
+hyundai i10,2010,286399,286499,59295,petrol,Dealer,manual,2
+maruti alto k10,2014,283299,349654,50294,petrol,Dealer,manual,1
+maruti eeco,2018,346399,,54422,petrol,Dealer,manual,2
+maruti alto k10,2013,205299,263694,116848,petrol,Dealer,manual,1
+hyundai venue,2019,1211594,,5450,petrol,Dealer,,1
+mahindra xuv500,2015,715299,717030,85560,diesel,Dealer,manual,2
+maruti swift,2015,499099,591000,43743,petrol,Dealer,manual,2
+maruti ritz,2012,203899,278806,72428,diesel,Dealer,manual,1
+hyundai eon,2014,224999,,26839,petrol,Individual,manual,1
+toyota corolla altis,2009,307999,,246967,petrol,Individual,,2
+hyundai santro xing,2008,157399,163699,71758,petrol,Individual,manual,1
+hyundai i10,2012,383999,466946,41632,petrol,Individual,automatic,1
+honda city,2015,620299,755875,121587,petrol,Individual,manual,1
+maruti alto,2011,188399,,26173,petrol,Individual,manual,2
+maruti swift,2015,450000,,61537,diesel,Individual,,1
+maruti wagon r 1.0,2010,210099,241838,29699,petrol,Individual,manual,1
+hyundai creta,2019,1155236,1345100,31118,petrol,Individual,,1
+hyundai santro xing,2008,242299,,20719,petrol,Individual,manual,1
+hyundai i10,2012,270799,,11420,petrol,Individual,manual,2
+hyundai i20,2011,387899,470953,82120,petrol,Individual,manual,1
+maruti swift dzire,2012,417399,,92029,diesel,Individual,manual,2
+maruti dzire,2019,651999,,7723,petrol,Individual,manual,1
+volkswagen polo,2011,305099,305199,50372,petrol,Individual,manual,2
+mahindra scorpio,2014,830699,,156184,diesel,Individual,manual,1
+maruti swift dzire,2013,504899,624990,59531,diesel,Individual,manual,1
+tata nano,2010,89099,96899,9278,petrol,Individual,manual,1
+maruti vitara brezza,2016,802199,945633,25881,diesel,Individual,manual,1
+jeep compass,2017,1389758,1390061,25491,diesel,Individual,manual,2
+renault kwid,2019,397799,,1222,petrol,Individual,manual,1
+honda city,2011,394099,399799,80062,petrol,Individual,automatic,1
+maruti baleno,2017,564299,,76112,petrol,Individual,,1
+maruti swift,2017,546199,546299,29996,petrol,Individual,manual,2
+honda jazz,2010,288499,327902,49945,petrol,Dealer,manual,1
+maruti omni e,2017,349299,364604,13072,petrol,Dealer,,1
+honda amaze,2018,570399,589410,28944,petrol,Dealer,manual,1
+maruti ciaz,2014,541499,,162517,diesel,Dealer,manual,1
+maruti eeco,2016,240899,300940,81717,petrol,Dealer,,1
+hyundai i10,2013,443099,,23298,petrol,Dealer,automatic,1
+hyundai verna,2016,694399,,107150,diesel,Individual,automatic,1
+ford figo,2010,180000,,82800,diesel,Dealer,manual,3
+hyundai i20,2011,416299,,58055,petrol,Individual,manual,1
+honda city zx,2007,141399,,155004,petrol,Dealer,manual,2
+ford ecosport,2013,500000,,63466,petrol,Individual,manual,1
+hyundai i10,2012,237199,261335,72110,petrol,Dealer,manual,2
+hyundai elite i20,2016,560999,564399,14894,petrol,Dealer,manual,2
+maruti ertiga,2015,616799,,66221,petrol,Dealer,manual,1
+maruti eeco,2019,465599,480199,15028,petrol,Dealer,manual,1
+maruti wagon r 1.0,2015,386799,467618,31796,petrol,Dealer,manual,1
+toyota etios,2013,382799,,96343,diesel,Dealer,manual,2
+maruti ignis,2017,377299,,34470,petrol,Dealer,manual,2
+tata safari storme,2015,626999,646493,135250,diesel,Dealer,manual,2
+maruti alto 800,2016,336699,,27100,petrol,Individual,manual,1
+maruti swift dzire,2015,567199,676384,62761,diesel,Individual,manual,1
+maruti swift,2016,520499,631887,73401,diesel,Individual,manual,1
+hyundai i10,2007,249599,253599,86033,petrol,Individual,manual,2
+maruti wagon r 1.0,2018,487499,487599,8452,petrol,Individual,manual,1
+maruti celerio,2014,419199,,32033,petrol,Individual,automatic,1
+toyota innova crysta,2017,1248358,1576067,88398,diesel,Individual,manual,2
+hyundai xcent,2015,340199,,89930,diesel,Individual,manual,1
+maruti swift,2012,410599,494834,62307,diesel,Individual,manual,1
+maruti swift dzire,2012,366799,408171,83548,petrol,Individual,manual,1
+maruti ertiga,2014,571799,,99514,petrol,Individual,manual,1
+tata tigor,2018,438299,526650,49270,diesel,Individual,,1
+hyundai creta,2019,1447530,1780955,13212,diesel,Individual,,1
+hyundai i20,2013,415699,485700,51472,diesel,Individual,manual,1
+maruti wagon r 1.0,2018,401799,402999,52539,petrol,Dealer,manual,1
+maruti wagon r,2007,182199,202470,117800,petrol,Dealer,manual,2
+maruti zen estilo,2007,89000,,110646,petrol,Dealer,manual,2
+maruti wagon r 1.0,2012,312499,312699,31540,petrol,Dealer,manual,1
+toyota innova crysta,2018,1490758,1494000,61729,diesel,Dealer,automatic,1
+toyota innova,2012,639499,707399,103935,diesel,Dealer,manual,2
+hyundai santro xing,2007,102499,128889,64809,petrol,Dealer,manual,2
+honda city,2015,673999,726868,36119,petrol,Dealer,automatic,1
+ford fiesta,2008,111000,,114310,diesel,Dealer,manual,2
+hyundai eon,2015,267899,,43748,petrol,Dealer,manual,3
+tata tigor,2017,491499,,26386,petrol,Individual,manual,2
+hyundai grand i10,2014,371899,436605,51206,petrol,Individual,manual,1
+hyundai elite i20,2018,726099,,33080,diesel,Individual,manual,1
+hyundai verna,2020,1112008,1367805,22747,petrol,Individual,,1
+maruti ertiga,2013,595999,601726,97585,diesel,Individual,manual,1
+ford freestyle,2018,509099,632784,20175,petrol,Individual,,1
+maruti ciaz,2015,444499,498822,78595,diesel,Individual,manual,1
+maruti swift,2016,367999,,36179,petrol,Individual,manual,1
+jeep compass,2018,1367538,1660812,62683,diesel,Individual,manual,1
+maruti sx4,2010,227099,227299,58590,petrol,Individual,manual,2
+mahindra kuv100,2016,328099,414418,28640,petrol,Individual,manual,1
+honda brio,2012,302799,,30254,petrol,Individual,manual,1
+hyundai grand i10,2018,450399,468812,14673,petrol,Individual,manual,1
+maruti swift dzire,2012,359899,394136,121979,petrol,Individual,manual,1
+toyota innova,2014,1129683,1129885,227391,diesel,Individual,manual,1
+mahindra xylo,2010,200000,,132687,diesel,Individual,manual,1
+honda city,2014,493399,,104666,petrol,Individual,manual,2
+ford ecosport,2015,490999,571108,110966,petrol,Individual,manual,1
+maruti alto,2010,234399,264146,71122,petrol,Dealer,manual,2
+hyundai i10,2009,174099,,68132,petrol,Dealer,manual,3
+maruti swift dzire,2015,481199,481299,80800,petrol,Dealer,manual,3
+maruti wagon r 1.0,2018,465699,,9582,petrol & cng,Dealer,manual,1
+maruti ertiga,2019,1011199,1037500,22770,petrol,Dealer,,1
+maruti alto 800,2012,269599,,40911,petrol,Dealer,manual,2
+hyundai elite i20,2019,782899,813141,8781,petrol,Dealer,,1
+maruti swift,2012,324199,325179,84213,diesel,Dealer,manual,1
+maruti swift,2019,574999,696866,5419,petrol,Dealer,manual,1
+hyundai i10,2009,151999,,85240,petrol,Dealer,manual,1
+honda civic,2010,270099,,168462,petrol,Dealer,manual,1
+hyundai santro xing,2008,157299,157399,29650,petrol,Dealer,manual,2
+maruti swift dzire,2012,373799,457943,79396,diesel,Dealer,manual,1
+chevrolet spark,2010,237399,,71080,petrol,Dealer,manual,1
+hyundai verna,2015,766599,770209,70207,diesel,Dealer,automatic,1
+honda amaze,2013,250000,,132070,diesel,Dealer,manual,1
+mahindra kuv100,2016,333799,335608,62601,diesel,Dealer,manual,1
+honda city,2015,600000,,110600,diesel,Dealer,manual,1
+hyundai i10,2012,336999,371005,71853,petrol,Dealer,manual,2
+hyundai i20,2014,340699,423434,56549,diesel,Dealer,manual,1
+hyundai grand i10,2015,563799,565746,2546,petrol,Dealer,manual,1
+hyundai accent,2012,197799,221216,170597,petrol,Dealer,manual,1
+maruti alto k10,2013,257299,,81944,petrol,Dealer,manual,1
+hyundai i20,2009,240899,,119627,petrol & cng,Dealer,manual,2
+hyundai santro xing,2011,227199,,47989,petrol,Dealer,manual,2
+hyundai creta,2015,916099,1103693,55867,diesel,Dealer,manual,1
+toyota innova,2010,582199,,150832,diesel,Dealer,manual,1
+renault kwid,2016,265699,323285,23226,petrol,Individual,manual,1
+honda city,2013,424499,551947,68016,petrol,Dealer,manual,1
+maruti ciaz,2014,442899,,103397,diesel,Dealer,manual,1
+maruti eeco,2019,386499,414683,5715,petrol & cng,Dealer,manual,1
+hyundai i10,2009,169299,,65198,petrol,Dealer,manual,2
+mahindra xuv500,2015,858799,894267,92400,diesel,Dealer,manual,2
+volkswagen vento,2014,310299,393376,82081,diesel,Dealer,manual,1
+maruti celerio,2015,455899,,7187,petrol,Dealer,automatic,1
+maruti celerio,2016,411599,,95404,petrol & cng,Dealer,manual,1
+maruti ritz,2009,275299,,53231,petrol,Dealer,manual,1
+ford ecosport,2015,640299,,52758,petrol,Individual,automatic,2
+maruti ertiga,2012,521099,525599,242900,diesel,Dealer,manual,1
+maruti baleno,2017,674199,688470,49405,petrol,Dealer,automatic,2
+maruti alto k10,2014,347099,,66079,petrol,Dealer,manual,1
+maruti celerio,2016,461299,,48395,petrol,Dealer,automatic,1
+maruti wagon r duo,2008,193499,202699,69982,petrol & lpg,Dealer,manual,1
+tata hexa,2019,1914453,1952396,46337,diesel,Dealer,manual,1
+honda city,2014,620199,692558,110899,diesel,Dealer,manual,1
+maruti celerio,2016,461099,461199,83735,petrol,Dealer,automatic,1
+maruti wagon r 1.0,2011,266399,,30640,petrol,Dealer,manual,1
+ford ecosport,2014,464499,,29000,petrol,Dealer,manual,2
+maruti baleno,2016,570599,,36146,petrol,Dealer,automatic,2
+honda civic,2010,270000,,60291,petrol,Dealer,automatic,1
+maruti ritz,2011,251199,280249,76919,petrol,Dealer,manual,1
+ford figo,2012,238099,,45635,petrol,Dealer,manual,1
+maruti vitara brezza,2017,668999,774238,51514,diesel,Dealer,manual,1
+maruti ciaz,2018,674299,803731,72536,diesel,Dealer,manual,1
+maruti celerio,2018,423899,435899,84119,petrol & cng,Individual,manual,1
+mahindra xuv500,2016,920999,1004880,105691,diesel,Individual,,1
+tata tigor,2018,571199,,3399,petrol,Individual,manual,1
+maruti wagon r 1.0,2010,210099,,71422,petrol,Individual,manual,2
+maruti swift,2014,362899,,80728,petrol,Individual,manual,1
+maruti eeco,2016,392099,392199,38114,petrol,Individual,manual,1
+honda accord,2009,210000,,103556,petrol & cng,Individual,manual,5
+hyundai new elantra,2017,1134935,,35617,diesel,Individual,automatic,2
+maruti swift dzire,2015,437299,437399,45865,petrol,Individual,manual,1
+maruti swift,2008,180599,,75701,petrol,Individual,manual,2
+maruti s cross,2018,769599,,57069,diesel,Individual,,1
+maruti wagon r 1.0,2011,326599,,126386,petrol,Individual,manual,1
+mercedes benz e class,2012,1047570,,53597,diesel,Individual,,2
+ford figo,2010,187099,,128317,diesel,Individual,manual,2
+maruti swift,2018,691299,,57889,petrol,Individual,automatic,1
+mahindra xuv 3oo,2019,1154428,,16746,diesel,Individual,,1
+maruti alto 800,2014,272899,,48657,petrol,Individual,manual,1
+maruti wagon r 1.0,2011,253799,,72151,petrol & cng,Individual,manual,2
+toyota corolla altis,2010,287299,,85763,petrol,Individual,,3
+audi a6,2012,1184223,1193834,29177,diesel,Individual,automatic,1
+maruti alto,2009,185599,,54904,petrol,Individual,manual,1
+volkswagen ameo,2016,460099,461788,43771,petrol,Individual,manual,1
+maruti wagon r 1.0,2016,295000,,111279,petrol,Individual,manual,1
+maruti vitara brezza,2016,595999,752415,52520,diesel,Individual,manual,2
+maruti vitara brezza,2017,604999,630266,59023,diesel,Dealer,manual,2
+maruti swift dzire,2015,448399,457099,41516,petrol,Dealer,,1
+hyundai xcent,2014,375000,,51147,petrol,Dealer,manual,1
+volkswagen polo,2015,622599,815539,35743,petrol,Dealer,automatic,1
+volkswagen vento,2012,367799,,52977,diesel,Dealer,manual,2
+maruti eeco,2020,472799,582196,7449,petrol,Dealer,manual,1
+maruti ritz,2011,286099,290099,39325,petrol,Individual,manual,1
+maruti ciaz,2018,839099,845000,3330,petrol,Dealer,,1
+mahindra tuv300,2016,671999,696423,60135,diesel,Individual,automatic,2
+maruti alto k10,2014,306999,414354,22656,petrol,Dealer,manual,1
+honda jazz,2012,331799,,110108,petrol,Individual,manual,1
+toyota innova crysta,2018,1972932,2041889,52726,diesel,Dealer,automatic,1
+maruti alto 800,2014,241499,244004,55269,petrol,Dealer,manual,1
+maruti swift dzire,2012,408899,,56269,petrol,Dealer,manual,1
+renault duster,2013,413499,,109600,diesel,Dealer,manual,1
+hyundai i20,2012,312699,391171,62165,petrol,Dealer,manual,2
+mercedes benz c class,2009,554499,,58102,petrol,Dealer,manual,2
+honda city,2014,524699,597990,82735,diesel,Dealer,manual,1
+maruti s presso,2019,441299,441399,30598,petrol,Dealer,,1
+maruti alto,2012,212999,269520,35190,petrol,Individual,manual,2
+maruti swift dzire,2014,374799,,82140,diesel,Individual,manual,2
+maruti alto k10,2018,409199,502782,6193,petrol,Individual,,1
+maruti swift,2008,246199,247699,48435,petrol,Dealer,,2
+maruti swift dzire,2013,517499,656834,30011,diesel,Dealer,manual,1
+volkswagen vento,2013,401000,,68210,petrol,Dealer,automatic,1
+honda amaze,2019,625799,751634,21863,petrol,Dealer,,1
+maruti vitara brezza,2018,788399,803015,55960,diesel,Dealer,manual,1
+maruti alto 800,2014,244499,,82605,petrol & cng,Dealer,manual,2
+renault kwid,2018,364899,432704,24872,petrol,Dealer,manual,1
+hyundai i10,2008,235999,284119,78054,petrol,Dealer,manual,1
+maruti eeco,2014,371599,,39790,petrol & cng,Dealer,manual,1
+maruti swift dzire,2014,315299,410325,241014,petrol,Dealer,manual,1
+hyundai grand i10 nios,2020,766099,,2259,petrol,Dealer,,1
+renault kwid,2018,325299,390904,21973,petrol,Dealer,manual,1
+hyundai i20,2014,432099,499745,39007,petrol,Dealer,manual,1
+maruti swift dzire,2009,209599,246394,90418,petrol,Dealer,manual,1
+volkswagen vento,2017,773199,927427,49616,diesel,Dealer,automatic,1
+maruti s cross,2018,803399,996189,44813,diesel,Individual,manual,1
+hyundai grand i10,2015,557099,557838,10520,petrol,Dealer,manual,1
+hyundai eon,2012,196999,,66327,petrol,Dealer,manual,1
+maruti alto k10,2018,436999,437099,9861,petrol,Dealer,,1
+maruti alto,2009,201899,201999,58959,petrol,Dealer,manual,2
+maruti dzire,2019,625199,638936,5115,petrol,Dealer,manual,1
+nissan terrano,2014,500000,,64628,diesel,Dealer,manual,1
+maruti alto,2019,338099,401089,27799,petrol,Dealer,manual,1
+volkswagen polo,2016,552599,552699,95987,petrol,Dealer,manual,1
+honda amaze,2014,371499,443004,72201,petrol,Dealer,manual,1
+maruti alto k10,2010,240599,,56095,petrol,Individual,manual,1
+hyundai i20 active,2017,637399,644322,10754,petrol,Dealer,manual,1
+hyundai grand i10,2017,386599,406310,71494,petrol,Dealer,manual,1
+maruti eeco,2018,380000,,52420,petrol & cng,Dealer,manual,1
+hyundai i20,2012,264199,,138000,diesel,Dealer,manual,1
+hyundai i10,2009,221899,224399,101931,petrol,Dealer,manual,2
+renault kwid,2016,251299,,57111,petrol,Dealer,manual,1
+honda wr-v,2017,723199,742945,23780,petrol,Dealer,manual,1
+maruti ertiga,2014,593599,614585,116278,diesel,Dealer,manual,2
+maruti ritz,2011,218899,,74518,petrol,Dealer,manual,1
+honda br-v,2016,775000,,40746,diesel,Dealer,manual,1
+hyundai i20,2013,324199,330499,57900,petrol,Dealer,manual,1
+honda amaze,2013,380699,,91004,petrol,Dealer,manual,1
+hyundai elite i20,2018,659499,807864,11962,petrol,Dealer,manual,1
+maruti alto 800,2013,249299,,41967,petrol,Dealer,manual,3
+toyota innova,2008,391999,,182406,diesel,Dealer,manual,2
+toyota etios,2011,207499,210599,156589,petrol,Dealer,manual,1
+maruti ertiga,2018,882599,906001,3783,petrol,Individual,,1
+maruti baleno,2020,622999,813742,6679,petrol,Individual,manual,1
+volkswagen polo,2016,772499,773830,17430,petrol,Individual,automatic,2
+maruti alto k10,2015,394199,,12593,petrol,Individual,,2
+hyundai xcent,2015,421099,489584,91984,petrol,Individual,manual,1
+toyota innova,2013,676699,,287219,diesel,Individual,manual,1
+maruti alto,2012,252199,304510,64259,petrol,Individual,manual,1
+hyundai i20,2011,387599,,62904,petrol,Individual,manual,1
+maruti alto k10,2011,241799,,68153,petrol,Individual,manual,2
+maruti wagon r 1.0,2012,289699,,47729,petrol & cng,Individual,manual,1
+hyundai i20,2011,359199,,18974,petrol,Individual,manual,1
+hyundai i20,2011,290699,,123568,petrol,Individual,manual,2
+hyundai verna,2018,1182304,1187354,1827,petrol,Individual,automatic,1
+maruti alto 800,2015,257499,263010,30242,petrol,Individual,manual,1
+maruti swift,2008,199999,,64425,petrol & cng,Individual,manual,2
+hyundai grand i10,2016,469999,477138,2751,petrol,Individual,manual,1
+honda jazz,2012,335099,336599,59949,petrol,Individual,manual,2
+hyundai eon,2013,238299,250687,25052,petrol,Individual,manual,1
+maruti a star,2010,199199,,34181,petrol & cng,Individual,manual,1
+maruti swift dzire,2010,280799,309311,160205,diesel,Individual,manual,2
+maruti dzire,2017,467399,,110111,diesel,Individual,manual,1
+hyundai grand i10,2015,396499,,58570,petrol,Individual,manual,1
+hyundai i10,2013,292799,347910,115427,petrol,Individual,manual,1
+maruti alto,2007,81000,,149025,petrol,Individual,manual,4
+maruti alto,2009,199299,,62353,petrol,Dealer,manual,3
+hyundai i20,2013,378299,,69046,diesel,Dealer,manual,1
+maruti swift,2013,481699,,44431,petrol,Dealer,manual,2
+hyundai elite i20,2014,490799,557425,29094,petrol,Dealer,manual,1
+skoda rapid,2012,457799,,81154,diesel,Dealer,manual,1
+hyundai verna,2012,374799,,10253,petrol,Dealer,automatic,2
+toyota corolla altis,2008,228699,,222344,petrol,Individual,,2
+maruti alto 800,2016,277099,358742,32339,petrol,Dealer,manual,1
+maruti celerio,2014,362699,,30338,petrol,Individual,manual,1
+hyundai verna,2019,822899,826713,22647,petrol,Dealer,manual,1
+maruti vitara brezza,2018,855999,1049638,12608,diesel,Individual,manual,1
+maruti swift,2015,419699,423780,92086,diesel,Dealer,manual,1
+hyundai santro xing,2006,70000,,106500,petrol & cng,Dealer,manual,1
+mg hector,2019,1826684,,37965,diesel,Dealer,,1
+maruti alto 800,2017,270000,,5359,petrol,Dealer,manual,1
+maruti s cross,2015,680199,694872,64085,diesel,Dealer,manual,1
+maruti wagon r 1.0,2015,374199,,19570,petrol & cng,Dealer,,1
+hyundai creta,2015,841699,1017337,58003,diesel,Dealer,,1
+maruti celerio,2018,541799,647220,13638,petrol,Dealer,manual,1
+maruti ritz,2009,180699,,72623,petrol,Individual,manual,1
+maruti swift dzire,2012,333299,392440,94644,diesel,Individual,manual,1
+honda jazz,2009,202799,257953,215809,petrol,Individual,manual,1
+maruti wagon r 1.0,2011,235299,,114593,petrol & cng,Dealer,manual,2
+ford ikon,2004,50000,,28484,petrol,Dealer,manual,2
+ford fiesta,2008,242499,,155454,petrol,Individual,manual,1
+maruti ertiga,2015,660199,668154,31048,petrol,Dealer,manual,1
+skoda superb,2010,506299,506399,106039,petrol,Individual,manual,1
+maruti swift dzire,2014,517199,524741,43981,petrol,Dealer,manual,1
+datsun go plus,2017,393499,,5994,petrol,Individual,manual,1
+maruti celerio,2014,380199,385278,52108,petrol,Dealer,automatic,1
+maruti ciaz,2015,537599,694062,100330,petrol,Dealer,manual,1
+maruti alto k10,2014,200399,273978,87237,petrol,Dealer,manual,1
+maruti alto 800,2013,252999,253099,29454,petrol,Dealer,manual,2
+maruti ertiga,2017,768199,775344,51203,diesel,Dealer,manual,1
+maruti vitara brezza,2017,731399,909885,150584,diesel,Dealer,manual,1
+hyundai i10,2010,199699,,87770,petrol,Dealer,manual,1
+maruti swift,2012,260000,,95000,diesel,Dealer,,2
+maruti ertiga,2018,740799,886187,150635,petrol & cng,Individual,manual,1
+maruti swift,2009,246999,252999,74034,petrol,Individual,manual,2
+honda civic,2011,346299,,640251,petrol,Individual,automatic,2
+maruti alto k10,2012,182099,182199,49323,petrol,Individual,manual,1
+mahindra xuv500,2019,1125744,1284150,28580,diesel,Individual,,1
+honda city,2010,247099,,119260,petrol,Individual,,1
+honda jazz,2016,500000,,58682,diesel,Individual,,1
+maruti baleno,2017,545999,559123,19792,petrol,Individual,manual,1
+maruti celerio,2014,398299,,53916,petrol,Individual,automatic,2
+maruti wagon r 1.0,2017,409299,409399,51063,petrol & cng,Individual,manual,1
+renault duster,2013,365099,458415,79962,diesel,Individual,manual,1
+hyundai verna,2018,973399,1145387,35859,petrol,Individual,manual,1
+maruti ritz,2014,269099,359488,55075,petrol,Individual,manual,1
+maruti alto k10,2010,180699,202287,63843,petrol,Individual,manual,3
+maruti alto,2009,173699,,89307,petrol,Dealer,manual,1
+maruti ciaz,2017,548599,700124,53935,petrol,Dealer,manual,1
+volkswagen vento,2015,567599,,22078,petrol,Dealer,,2
+maruti ignis,2017,500000,,4347,petrol,Dealer,manual,2
+honda brio,2013,289799,289899,44622,petrol,Dealer,manual,1
+maruti eeco,2020,481099,592061,5076,petrol,Dealer,manual,1
+honda amaze,2013,411499,429905,20924,petrol,Dealer,manual,1
+ford ecosport,2013,384299,449580,111690,diesel,Dealer,manual,1
+ford figo,2014,375000,,37000,petrol,Dealer,,2
+maruti sx4,2007,100000,,100178,petrol & cng,Dealer,manual,4
+maruti sx4,2008,163199,,117930,petrol,Individual,manual,1
+hyundai i10,2009,187099,195544,111095,petrol,Individual,manual,1
+volkswagen vento,2016,623899,627571,96726,petrol,Individual,automatic,1
+hyundai accent,2008,150000,,102602,petrol & cng,Individual,manual,2
+maruti alto 800,2016,259599,296092,70380,petrol,Individual,manual,1
+honda brio,2013,338699,,68916,petrol,Individual,manual,1
+maruti wagon r 1.0,2012,174000,,80909,petrol & cng,Individual,manual,2
+maruti swift,2010,152000,,103406,diesel,Individual,manual,1
+maruti ignis,2019,567099,578199,19564,petrol,Individual,manual,1
+renault kwid,2019,386599,504069,16685,petrol,Individual,manual,1
+maruti alto,2008,70000,,90892,petrol,Individual,manual,4
+honda city,2010,431499,,86559,petrol,Individual,manual,2
+hyundai verna,2013,367699,407106,68242,petrol,Individual,manual,3
+honda city,2014,631699,,67597,petrol,Individual,manual,2
+hyundai verna,2012,356599,416990,115457,diesel,Individual,manual,1
+maruti dzire,2018,709499,709699,52996,diesel,Individual,manual,1
+maruti ertiga,2013,456899,466648,115820,diesel,Individual,manual,1
+hyundai creta,2018,878999,913275,40049,diesel,Individual,,1
+hyundai verna,2014,483899,,39756,petrol,Dealer,manual,2
+maruti swift,2015,536399,,71640,diesel,Dealer,manual,1
+hyundai eon,2014,286499,,31287,petrol,Dealer,manual,3
+maruti alto k10,2016,351199,,47833,petrol,Dealer,,2
+maruti alto k10,2011,206999,251251,55810,petrol,Dealer,manual,2
+maruti alto k10,2017,334299,,38079,petrol,Dealer,manual,2
+maruti swift,2014,394499,489557,83300,petrol,Dealer,manual,1
+chevrolet beat,2010,224699,,98553,petrol,Dealer,manual,1
+mahindra xuv500,2015,918099,,113208,diesel,Dealer,manual,1
+hyundai elite i20,2014,526999,,95243,diesel,Dealer,manual,1
+hyundai i20,2010,268299,,87265,petrol,Dealer,manual,1
+chevrolet aveo u va,2006,80000,,63992,petrol & cng,Dealer,manual,2
+maruti alto,2011,238599,238699,35039,petrol,Dealer,manual,1
+maruti wagon r 1.0,2012,279599,279699,53558,petrol,Dealer,manual,1
+toyota etios liva,2011,257399,,36419,petrol,Dealer,manual,2
+maruti omni e,2015,280099,,67455,petrol,Dealer,,1
+maruti swift dzire,2014,411099,,53935,petrol,Dealer,manual,1
+toyota etios liva,2015,435099,514583,60954,petrol,Dealer,manual,1
+maruti dzire,2019,691699,698399,65709,diesel,Dealer,manual,1
+maruti swift,2012,327799,,123846,diesel,Dealer,manual,1
+maruti baleno,2018,658899,748708,27623,diesel,Dealer,manual,1
+honda city,2017,790299,977696,57969,petrol,Dealer,manual,1
+volkswagen polo,2015,555899,558500,24134,petrol,Dealer,automatic,1
+hyundai venue,2019,1071103,1111861,28932,petrol,Dealer,,1
+hyundai eon,2015,260299,292888,82350,petrol,Dealer,manual,2
+mahindra e2o,2016,350000,,58133,electric,Dealer,manual,1
+maruti wagon r 1.0,2011,290699,,36503,petrol,Dealer,manual,2
+volkswagen passat,2011,582899,,73715,diesel,Individual,automatic,1
+honda city,2012,478299,,87615,petrol,Dealer,manual,1
+toyota corolla altis,2016,1122108,,40705,petrol,Dealer,automatic,1
+toyota corolla altis,2011,401099,405864,55925,petrol,Dealer,,4
+maruti alto 800,2016,311399,,34151,petrol,Dealer,manual,2
+maruti vitara brezza,2016,623799,801733,71468,diesel,Dealer,manual,1
+maruti vitara brezza,2016,777299,805180,28987,diesel,Dealer,manual,1
+maruti a star,2009,184699,,107840,petrol,Dealer,manual,1
+maruti swift dzire,2014,460899,,30411,petrol,Dealer,manual,2
+hyundai grand i10 nios,2020,680899,692940,379,petrol,Dealer,,1
+renault duster,2019,936699,948387,14779,petrol,Individual,automatic,2
+maruti baleno,2017,614099,755490,62516,petrol,Dealer,manual,1
+hyundai i10,2011,189499,197299,66622,petrol,Dealer,manual,1
+maruti ertiga,2012,590899,,51209,diesel,Dealer,manual,1
+maruti vitara brezza,2016,756099,,82420,diesel,Dealer,manual,1
+hyundai verna,2012,413899,,88815,diesel,Dealer,manual,5
+maruti ritz,2009,170000,,70095,petrol & cng,Dealer,manual,2
+maruti ciaz,2018,690699,804000,49072,petrol,Dealer,manual,1
+maruti eeco,2020,476499,583234,3822,petrol,Dealer,manual,1
+tata tiago,2017,489599,498449,33205,petrol,Dealer,manual,1
+hyundai i10,2013,306000,,63162,petrol,Dealer,manual,1
+maruti swift,2019,575099,666372,8940,petrol,Dealer,manual,1
+ford ecosport,2013,474499,552340,48861,petrol,Dealer,manual,1
+hyundai elite i20,2015,480399,494399,106123,diesel,Dealer,manual,1
+maruti swift,2012,291999,350206,113073,diesel,Dealer,manual,1
+hyundai xcent,2014,460899,,9571,petrol,Dealer,manual,1
+maruti alto 800,2018,343299,405107,6662,petrol,Dealer,manual,1
+maruti swift,2012,324599,441977,95321,diesel,Individual,manual,1
+maruti ertiga,2018,884399,931255,82508,diesel,Individual,manual,1
+maruti alto 800,2018,304399,405541,14275,petrol,Individual,manual,1
+renault duster,2016,522599,604142,85369,diesel,Individual,automatic,1
+maruti swift,2015,511499,630380,171277,diesel,Individual,manual,1
+hyundai santro xing,2008,166199,,84985,petrol & lpg,Individual,manual,1
+hyundai grand i10,2017,533399,605424,14965,petrol,Individual,manual,1
+maruti swift dzire,2014,354099,447072,88835,diesel,Individual,manual,1
+tata nano,2014,187599,,9392,petrol,Individual,automatic,1
+volkswagen polo,2014,366399,486453,107465,diesel,Dealer,manual,1
+hyundai elite i20,2017,623899,752839,38526,petrol,Dealer,manual,2
+maruti swift,2010,202899,,72363,petrol,Dealer,manual,1
+bmw 3 series,2011,694299,,90696,diesel,Dealer,automatic,2
+mercedes benz c class,2014,1335521,1381500,23856,petrol,Dealer,,2
+maruti dzire,2017,707799,788490,76040,diesel,Dealer,automatic,1
+tata nexon,2019,973899,1001500,20995,diesel,Individual,,1
+renault kwid,2015,286899,,23144,petrol,Dealer,manual,1
+nissan micra,2015,384699,,79035,petrol,Individual,automatic,1
+honda br-v,2017,806099,808812,54562,petrol,Dealer,automatic,1
+ford ecosport,2017,606699,611701,18510,petrol,Individual,manual,1
+hyundai i10,2013,469299,,22201,petrol,Dealer,automatic,1
+renault duster,2017,887499,,46220,diesel,Dealer,automatic,1
+audi q3,2012,1119381,,113771,diesel,Dealer,automatic,1
+hyundai grand i10,2016,352299,447283,41357,petrol,Dealer,manual,1
+toyota innova,2010,536199,,233928,diesel,Dealer,manual,2
+maruti wagon r 1.0,2014,357399,410658,23233,petrol,Dealer,manual,2
+maruti wagon r,2012,298599,310558,71968,petrol,Dealer,manual,2
+hyundai i10,2008,304599,,85606,petrol,Dealer,automatic,1
+mahindra tuv300,2015,490000,,74825,diesel,Individual,manual,1
+nissan micra,2011,199699,,48380,petrol,Individual,manual,2
+maruti alto k10,2013,299599,,9676,petrol,Individual,manual,1
+maruti alto,2010,205199,,57695,petrol,Dealer,manual,2
+maruti ritz,2010,241199,,19432,petrol,Dealer,manual,1
+maruti a star,2010,246699,246799,46021,petrol,Individual,manual,2
+honda city,2014,523899,593700,90426,diesel,Dealer,manual,1
+volkswagen polo,2015,531899,,58384,petrol,Individual,manual,2
+nissan micra,2013,283099,293599,46281,petrol,Dealer,manual,2
+maruti dzire,2017,664399,,29115,petrol,Individual,manual,1
+hyundai eon,2015,297799,,36995,petrol,Dealer,manual,1
+maruti baleno,2017,581099,616621,80193,diesel,Dealer,manual,1
+hyundai creta,2015,959399,961500,78599,diesel,Dealer,automatic,2
+mahindra bolero,2013,378999,494013,85256,diesel,Dealer,manual,1
+maruti alto,2007,189599,,33538,petrol,Dealer,manual,1
+honda amaze,2014,400099,,100187,petrol,Dealer,manual,2
+honda city,2014,531399,,101866,diesel,Dealer,manual,2
+hyundai xcent,2014,358799,461640,50672,petrol,Dealer,manual,2
+maruti swift dzire,2015,536099,624317,74575,diesel,Individual,manual,1
+volkswagen polo,2015,421499,,84281,petrol,Individual,manual,1
+maruti wagon r 1.0,2014,387199,460995,43955,petrol,Individual,manual,1
+maruti swift,2015,390000,,72955,diesel,Individual,manual,2
+maruti ciaz,2018,664599,804676,47051,petrol,Individual,manual,1
+maruti ritz,2009,313799,,170681,diesel,Individual,manual,1
+hyundai verna,2012,358399,430465,109303,diesel,Individual,manual,1
+maruti swift,2014,383599,,113481,petrol,Individual,manual,1
+maruti ertiga,2013,645099,,54021,diesel,Individual,manual,1
+maruti eeco,2019,452399,454500,45317,petrol & cng,Individual,manual,1
+ford figo,2011,263199,288405,26569,petrol,Individual,manual,1
+maruti ciaz,2018,828499,869914,30904,petrol,Individual,,1
+maruti alto k10,2018,302099,317008,53156,petrol & cng,Individual,,1
+maruti baleno,2019,695599,704552,12583,petrol,Individual,manual,1
+ford ecosport,2015,607999,,61188,petrol,Dealer,automatic,1
+hyundai i10,2009,179199,,101199,petrol,Dealer,manual,1
+hyundai i10,2009,197099,,37982,petrol,Dealer,manual,2
+maruti ciaz,2014,479999,501373,56469,petrol,Dealer,manual,1
+hyundai elite i20,2019,628299,628399,11855,petrol,Dealer,,2
+maruti swift,2014,510899,599520,12720,petrol,Dealer,manual,1
+maruti swift,2009,195059,,76508,petrol,Dealer,manual,4
+hyundai grand i10,2017,478299,562151,14538,petrol,Dealer,manual,1
+tata nano,2010,35000,,53390,petrol,Dealer,manual,2
+maruti swift,2015,485399,492678,57036,petrol,Dealer,manual,1
+maruti alto 800,2017,270000,,43072,petrol,Individual,manual,2
+honda amaze,2020,685399,841107,9344,petrol,Individual,manual,1
+renault kwid,2019,400699,400799,7343,petrol,Individual,manual,1
+ford ecosport,2020,981199,1191000,11371,diesel,Individual,manual,1
+volkswagen polo,2014,420099,420299,56316,petrol,Individual,manual,1
+tata manza,2012,256499,,107319,diesel,Individual,manual,1
+ford ecosport,2017,692899,696000,52212,diesel,Individual,,1
+honda wr-v,2017,727299,,37386,petrol,Individual,manual,1
+maruti wagon r 1.0,2011,274299,277763,109283,petrol & cng,Individual,manual,1
+honda city,2017,921799,953649,89362,petrol,Individual,automatic,1
+maruti wagon r 1.0,2012,295599,,37135,petrol,Individual,manual,1
+hyundai verna,2016,618799,763539,22884,petrol,Individual,manual,1
+maruti ertiga,2017,811699,839767,43634,diesel,Individual,manual,1
+hyundai tucson new,2018,1651146,1711500,72527,diesel,Individual,automatic,2
+volkswagen polo,2010,285599,,42795,petrol,Individual,manual,1
+honda amaze,2014,408899,410500,46348,petrol,Individual,manual,1
+mercedes benz e class,2012,1139985,,98842,petrol,Individual,manual,2
+hyundai elite i20,2016,453799,466112,95260,petrol,Individual,manual,1
+maruti alto 800,2012,256399,256499,28610,petrol,Dealer,manual,1
+maruti alto 800,2016,302099,302199,41120,petrol,Dealer,manual,2
+maruti swift dzire,2014,547899,643202,81540,diesel,Dealer,manual,1
+tata zest,2016,300000,,46455,diesel,Dealer,manual,1
+maruti ritz,2013,285299,,70687,diesel,Dealer,manual,1
+maruti zen estilo,2011,200799,259017,33717,petrol,Dealer,manual,1
+maruti eeco,2018,422299,496581,92405,petrol & cng,Dealer,manual,1
+hyundai i10,2013,370299,454639,59555,petrol,Dealer,automatic,2
+maruti celerio,2014,367399,,101361,petrol,Dealer,manual,2
+maruti wagon r 1.0,2014,410099,,62642,petrol,Dealer,manual,1
+honda city,2017,850000,,52028,petrol,Dealer,manual,1
+hyundai eon,2015,263999,,26270,petrol,Dealer,manual,1
+volkswagen polo,2012,295299,,56032,petrol,Dealer,manual,2
+maruti s cross,2017,662399,708049,113808,diesel,Dealer,manual,1
+hyundai grand i10,2015,504799,,15839,petrol,Dealer,manual,1
+jaguar xj l,2014,3866000,,2288,diesel,Dealer,automatic,1
+nissan sunny,2014,478899,488199,22411,diesel,Dealer,manual,1
+hyundai i10,2010,216999,,84850,petrol,Dealer,manual,1
+maruti alto,2020,363499,368626,6942,petrol,Dealer,manual,1
+renault kwid,2015,288699,345648,32671,petrol,Dealer,manual,1
+hyundai grand i10,2015,401999,,41688,petrol,Dealer,manual,1
+maruti ertiga,2019,874799,891500,25469,petrol,Dealer,,1
+ford ecosport,2013,383699,449173,90309,diesel,Dealer,manual,3
+maruti celerio,2015,377899,377999,5972,petrol,Dealer,manual,1
+honda amaze,2016,435599,441793,43240,petrol,Dealer,manual,1
+maruti swift dzire,2012,417799,472595,112871,petrol,Individual,manual,1
+volkswagen ameo,2019,430399,544551,47782,petrol,Dealer,,1
+hyundai elite i20,2015,507799,511599,37023,petrol,Dealer,manual,1
+toyota fortuner,2013,1105948,1115009,205697,diesel,Dealer,manual,1
+maruti alto k10,2017,361899,,23023,petrol,Dealer,,2
+honda amaze,2015,291999,365626,136775,diesel,Dealer,manual,1
+honda amaze,2015,376799,376899,72343,petrol,Dealer,manual,1
+hyundai i20,2011,337399,346499,58202,petrol,Dealer,manual,2
+renault duster,2013,476899,476999,81382,diesel,Dealer,manual,1
+maruti ertiga,2015,531499,669760,62928,petrol,Dealer,manual,1
+maruti swift,2012,407299,,70522,petrol,Individual,manual,1
+hyundai i10,2010,175199,,88895,petrol,Dealer,manual,1
+hyundai elite i20,2015,552599,701302,36307,petrol,Dealer,manual,1
+datsun redi go,2016,200000,,36414,petrol,Dealer,manual,1
+maruti baleno,2016,669799,721873,16491,petrol,Dealer,automatic,1
+hyundai i20,2010,373299,,90062,petrol,Dealer,manual,1
+hyundai verna,2012,376799,,25375,petrol,Dealer,manual,1
+hyundai creta,2016,1021411,1059768,28787,diesel,Dealer,manual,1
+hyundai i10,2012,379999,,47840,petrol,Dealer,automatic,2
+maruti swift dzire,2008,156899,157799,143363,petrol,Dealer,manual,1
+maruti alto k10,2012,218999,239642,81759,petrol,Dealer,manual,2
+ford ecosport,2019,855199,,29962,petrol,Dealer,manual,1
+maruti ritz,2010,362699,,61156,petrol,Dealer,manual,1
+hyundai creta,2015,812499,918440,94412,diesel,Dealer,automatic,1
+hyundai santro xing,2008,205799,,53131,petrol,Dealer,manual,2
+hyundai i10,2011,317399,363871,35533,petrol,Dealer,manual,1
+maruti sx4,2011,233699,,77761,petrol,Dealer,manual,2
+audi a4,2013,1063528,1231133,94895,diesel,Individual,automatic,3
+honda city zx,2008,80000,,113515,petrol,Individual,automatic,1
+hyundai i20,2012,405099,405199,83304,petrol,Individual,manual,1
+maruti wagon r 1.0,2016,385499,485033,45170,petrol,Individual,manual,1
+maruti swift,2012,470799,,63009,petrol,Individual,manual,1
+tata hexa,2018,1189172,1417249,24707,diesel,Individual,automatic,1
+honda city,2014,400000,,122250,diesel,Individual,manual,2
+maruti wagon r 1.0,2015,383199,383299,39094,petrol,Individual,manual,2
+toyota innova,2014,668299,778737,80584,diesel,Individual,manual,1
+hyundai creta,2018,880799,,18794,diesel,Individual,,2
+maruti ciaz,2015,520499,,37429,petrol,Individual,manual,1
+maruti swift dzire,2013,524399,,85864,diesel,Individual,manual,2
+maruti vitara brezza,2019,928599,928699,39910,diesel,Individual,automatic,2
+maruti swift,2010,264499,,47861,petrol,Individual,manual,1
+renault kwid,2016,381599,,14773,petrol,Individual,manual,1
+honda city,2014,529899,530199,66724,petrol,Individual,manual,1
+toyota etios,2011,252499,283741,82523,petrol & cng,Individual,manual,2
+hyundai grand i10,2016,492199,596854,27015,petrol,Individual,manual,1
+tata tiago,2017,542499,,8280,petrol,Individual,manual,1
+toyota innova,2012,540000,,300672,diesel,Individual,manual,1
+maruti ertiga,2014,523499,609501,73364,petrol,Individual,manual,1
+hyundai grand i10,2016,492399,576770,32496,petrol,Individual,automatic,1
+hyundai i10,2008,199299,,119960,petrol,Individual,manual,2
+hyundai i10,2013,302499,359196,64318,petrol & lpg,Individual,manual,2
+hyundai i10,2010,244699,,21013,petrol,Dealer,manual,1
+skoda laura,2011,252799,,62555,petrol,Dealer,manual,1
+volkswagen vento,2010,248999,250847,42013,petrol,Dealer,manual,1
+volkswagen vento,2012,301199,301299,100609,petrol,Dealer,manual,1
+hyundai i10,2008,199899,,82148,petrol,Dealer,manual,3
+toyota etios,2014,357399,,47920,petrol,Dealer,manual,1
+tata tiago,2018,472599,,16534,petrol,Individual,manual,1
+chevrolet beat,2013,259099,,45258,diesel,Dealer,manual,1
+hyundai i20,2013,424299,,50232,petrol,Individual,manual,1
+ford ecosport,2016,503199,,121507,diesel,Dealer,manual,1
+maruti swift,2018,592499,602500,41350,petrol,Individual,manual,1
+maruti swift dzire,2010,268799,313948,44505,petrol,Dealer,manual,1
+volkswagen polo,2015,403499,404199,133949,diesel,Dealer,manual,1
+maruti new  wagon-r,2019,473799,483347,4792,petrol,Dealer,,1
+honda city,2010,332899,,93671,petrol,Dealer,automatic,2
+honda civic,2007,251899,251999,98787,petrol,Dealer,manual,2
+honda city,2014,590000,,122226,diesel,Dealer,manual,1
+hyundai creta,2018,1449045,1467528,30872,diesel,Dealer,,1
+honda amaze,2014,389899,,75156,petrol,Dealer,manual,1
+maruti wagon r 1.0,2015,323099,323299,27767,petrol,Individual,manual,1
+maruti alto 800,2012,186999,248776,81861,petrol,Individual,manual,1
+hyundai i20,2013,341999,438529,41999,diesel,Individual,manual,1
+maruti swift dzire,2013,344799,,129364,diesel,Dealer,manual,1
+hyundai grand i10,2013,312199,313158,76084,petrol,Dealer,manual,1
+honda city,2012,351499,365299,99219,petrol,Dealer,manual,2
+skoda superb,2012,351399,,76434,petrol,Dealer,manual,2
+maruti swift dzire,2009,186299,,191532,petrol,Dealer,manual,1
+maruti wagon r 1.0,2013,274399,331048,227458,petrol & cng,Dealer,manual,1
+maruti ritz,2011,240499,294199,36916,petrol,Dealer,manual,1
+maruti alto 800,2016,287299,341036,32883,petrol,Dealer,manual,2
+maruti alto k10,2017,358699,432901,11733,petrol,Dealer,manual,1
+hyundai i10,2009,165199,,72858,petrol,Dealer,manual,2
+hyundai creta,2016,837999,1018151,51353,diesel,Dealer,,1
+maruti swift,2015,415299,511999,48615,petrol,Dealer,manual,1
+maruti wagon r 1.0,2011,273899,,36084,petrol,Dealer,manual,2
+maruti swift,2018,684199,813711,65207,diesel,Dealer,manual,1
+maruti ritz,2011,270699,321788,17980,petrol,Dealer,manual,1
+hyundai elite i20,2016,570599,705914,33044,petrol,Dealer,manual,2
+hyundai i10,2015,337199,,15440,petrol,Dealer,manual,1
+hyundai eon,2012,290299,290399,88747,petrol,Individual,manual,1
+honda brio,2013,274099,,51650,petrol,Dealer,manual,1
+maruti wagon r 1.0,2012,235199,,47356,petrol & cng,Dealer,manual,1
+maruti alto 800,2014,259099,285025,65487,petrol,Dealer,manual,1
+maruti swift,2015,478699,,114221,diesel,Dealer,manual,1
+toyota corolla altis,2011,357399,357499,121163,petrol & cng,Dealer,,2
+hyundai i10,2009,300499,,71126,petrol,Dealer,manual,2
+volkswagen polo,2014,468999,,70965,diesel,Dealer,manual,1
+maruti swift,2015,381699,411935,97868,diesel,Dealer,manual,1
+ford ecosport,2014,435899,447549,59818,diesel,Dealer,manual,1
+toyota corolla altis,2008,223599,,81426,petrol,Dealer,,3
+hyundai i10,2011,291599,343467,73867,petrol,Dealer,manual,1
+hyundai creta,2017,949799,,41831,petrol,Dealer,manual,1
+maruti zen estilo,2010,133199,150980,107892,petrol & cng,Dealer,manual,3
+maruti ritz,2010,233999,,101633,petrol,Dealer,manual,2
+tata tiago,2020,499199,,3282,petrol,Dealer,manual,1
+hyundai verna,2013,480799,,190199,petrol,Dealer,manual,1
+hyundai i10,2010,257999,,37321,petrol & cng,Dealer,manual,2
+hyundai elite i20,2019,700000,,22902,diesel,Dealer,,1
+renault kwid,2016,352399,,53414,petrol,Dealer,manual,1
+honda city,2014,405499,506895,171211,petrol,Dealer,manual,1
+toyota innova,2012,483299,485798,170924,diesel,Dealer,manual,1
+chevrolet beat,2012,182799,,15914,petrol,Dealer,manual,1
+datsun redi go,2019,248099,249081,18090,petrol,Dealer,manual,1
+maruti alto 800,2016,244399,,56491,petrol,Dealer,manual,1
+honda city zx,2008,299699,,94396,petrol,Dealer,manual,1
+maruti swift dzire,2013,350000,,63674,diesel,Dealer,manual,1
+hyundai elite i20,2017,615799,620268,19606,petrol,Dealer,manual,1
+maruti swift dzire,2016,549299,549399,17477,petrol,Individual,manual,1
+honda city,2017,758099,919830,35805,petrol,Dealer,manual,2
+maruti wagon r 1.0,2013,279999,,115213,petrol & cng,Dealer,manual,1
+maruti alto k10,2012,288599,,43367,petrol,Dealer,manual,2
+renault kwid,2018,395399,,24199,petrol,Dealer,,1
+maruti wagon r 1.0,2018,396999,,12409,petrol,Dealer,automatic,1
+maruti alto k10,2012,274599,,50282,petrol,Dealer,manual,3
+hyundai i10,2010,297499,297599,95624,petrol,Dealer,manual,3
+hyundai i10,2011,274399,,55421,petrol,Dealer,manual,2
+hyundai i20,2011,329099,331899,82861,petrol,Dealer,manual,1
+mahindra xuv500,2014,700000,,88029,diesel,Individual,manual,1
+maruti alto 800,2014,290399,,35406,petrol,Dealer,manual,1
+maruti swift dzire,2012,326599,391390,105522,diesel,Dealer,manual,1
+honda city,2011,342699,342799,56727,petrol,Dealer,manual,1
+hyundai i10,2010,312299,312399,38567,petrol,Dealer,manual,1
+hyundai elite i20,2019,812999,853419,7146,petrol,Dealer,,1
+hyundai verna,2014,496099,,84647,diesel,Dealer,manual,1
+maruti ertiga,2013,391899,400370,167408,diesel,Dealer,manual,1
+maruti alto 800,2016,305599,314499,18251,petrol,Dealer,manual,2
+mercedes benz c class,2011,669799,824409,81190,petrol,Dealer,manual,3
+maruti swift dzire,2014,388799,389552,63051,petrol,Dealer,manual,1
+maruti swift dzire,2014,439399,515525,42968,petrol,Dealer,manual,1
+maruti alto k10,2014,272399,312810,45043,petrol,Dealer,manual,2
+maruti alto k10,2012,272199,272299,33186,petrol,Dealer,manual,2
+honda city,2012,355799,360686,88489,petrol,Dealer,manual,2
+tata tigor,2017,393299,406259,46394,petrol,Dealer,manual,1
+renault scala,2013,256999,,89370,diesel,Dealer,manual,1
+maruti ertiga,2016,655599,661174,138691,petrol & cng,Individual,manual,1
+maruti swift,2013,401899,408257,69448,diesel,Individual,manual,1
+maruti swift,2019,505799,614460,17518,petrol,Individual,manual,1
+chevrolet beat,2011,248699,,46479,petrol,Individual,manual,1
+hyundai grand i10,2014,429199,,41556,petrol,Individual,manual,1
+maruti swift,2017,550000,,23886,diesel,Individual,manual,1
+hyundai eon,2012,239199,,70135,petrol,Individual,manual,1
+hyundai i20,2013,481899,,34999,petrol,Individual,manual,1
+hyundai eon,2011,145799,166375,38721,petrol,Individual,manual,1
+hyundai i10,2009,259199,,88322,petrol,Individual,manual,1
+hyundai grand i10,2017,432299,446100,24433,petrol,Individual,,1
+renault kwid,2016,219899,265240,52417,petrol,Individual,manual,2
+hyundai new elantra,2015,607799,612099,99951,petrol,Individual,automatic,1
+volkswagen vento,2014,430699,,74950,petrol,Individual,manual,1
+kia seltos,2019,1041510,1203840,6243,petrol,Individual,,1
+hyundai i20,2011,264999,,44007,petrol,Individual,manual,1
+maruti swift,2011,374299,,181733,diesel,Individual,manual,1
+maruti alto,2008,206499,,72819,petrol,Individual,manual,3
+maruti swift dzire,2013,310299,314899,154164,diesel,Individual,manual,1
+maruti vitara brezza,2016,647999,,101529,diesel,Individual,manual,1
+maruti alto,2012,220899,,12377,petrol,Individual,manual,1
+hyundai i10,2011,293099,354490,68764,petrol,Individual,manual,2
+maruti swift dzire,2013,482099,559636,43859,petrol,Individual,manual,1
+maruti wagon r 1.0,2015,344999,,68611,petrol & cng,Individual,manual,3
+maruti ritz,2009,232799,,87557,petrol,Dealer,manual,1
+maruti eeco,2019,444499,530537,50814,petrol & cng,Dealer,manual,1
+maruti ciaz,2017,565699,722277,76837,diesel,Dealer,manual,1
+hyundai verna,2013,397099,397199,66517,petrol,Dealer,manual,2
+hyundai elite i20,2015,572699,572799,76322,diesel,Dealer,manual,1
+maruti a star,2011,179399,,31715,petrol,Dealer,manual,2
+nissan sunny,2011,307199,326292,137729,petrol,Individual,manual,1
+hyundai elite i20,2016,575000,,14540,petrol,Dealer,manual,1
+maruti celerio,2015,350599,354921,52458,petrol,Individual,automatic,1
+maruti baleno,2018,607899,728991,24627,petrol,Dealer,manual,1
+ford figo,2010,301199,,61379,diesel,Individual,manual,1
+datsun redi go,2017,303899,,16389,petrol,Dealer,manual,1
+maruti alto,2007,103599,143591,59676,petrol,Dealer,manual,1
+hyundai elite i20,2015,567499,570102,21236,petrol,Dealer,manual,1
+maruti wagon r 1.0,2015,304399,357110,47506,petrol,Dealer,manual,1
+hyundai verna,2013,359199,454404,92521,diesel,Dealer,manual,3
+toyota etios liva,2012,306599,,190416,diesel,Dealer,manual,1
+renault kwid,2016,303099,,62730,petrol,Dealer,manual,1
+hyundai i20,2012,389399,,36697,petrol,Dealer,manual,2
+datsun redi go,2017,282399,,26725,petrol,Individual,manual,1
+hyundai i10,2011,247999,,116983,petrol,Individual,manual,2
+toyota etios,2013,320000,,73361,diesel,Individual,manual,1
+hyundai grand i10,2016,427299,443211,24665,petrol,Individual,manual,1
+maruti eeco,2017,384799,,15251,petrol,Individual,manual,1
+hyundai verna,2013,584799,,49259,petrol,Individual,manual,1
+maruti baleno,2016,494999,,34682,petrol,Individual,automatic,3
+renault kwid,2016,297899,,64939,petrol,Individual,manual,2
+renault duster,2013,370999,,73503,diesel,Individual,manual,2
+renault duster,2014,507899,581531,74016,diesel,Individual,manual,2
+toyota etios liva,2012,257999,296944,85100,petrol,Individual,manual,2
+hyundai i10,2009,278699,289385,48964,petrol,Individual,manual,1
+mahindra scorpio,2015,865399,1086296,60362,diesel,Individual,manual,2
+mercedes benz e class,2013,1445409,1500895,41294,diesel,Individual,manual,2
+maruti ertiga,2016,825999,856445,48085,diesel,Dealer,manual,1
+mahindra xuv500,2014,694799,694899,97537,diesel,Dealer,manual,2
+maruti xl6,2019,1012119,,14911,petrol,Dealer,,1
+maruti wagon r 1.0,2014,307999,,174675,petrol & cng,Dealer,manual,1
+maruti alto k10,2014,323299,323399,50599,petrol,Dealer,manual,1
+volkswagen polo,2010,371299,,59580,diesel,Dealer,manual,1
+tata indigo cs,2009,143399,,42165,petrol,Dealer,manual,1
+maruti alto,2010,117099,,137382,petrol,Dealer,manual,1
+maruti alto k10,2014,214699,,37168,petrol,Dealer,manual,3
+maruti swift,2014,385399,399199,91931,petrol,Dealer,manual,1
+audi q3,2015,1646803,1850363,73656,diesel,Individual,automatic,2
+hyundai i20,2012,314999,315099,66504,petrol,Individual,manual,2
+honda city,2010,301999,,85037,petrol,Individual,manual,1
+maruti wagon r 1.0,2012,313899,313999,29425,petrol,Individual,manual,2
+maruti alto 800,2014,285699,297210,5383,petrol,Individual,manual,1
+skoda laura,2009,300000,,67343,petrol,Individual,manual,3
+hyundai verna,2013,439499,,58233,petrol,Individual,manual,1
+renault duster,2017,661599,,49922,petrol,Individual,automatic,1
+hyundai getz prime,2008,233099,,43423,petrol,Individual,manual,1
+hyundai i20,2011,338399,338499,39597,petrol,Individual,manual,2
+hyundai elite i20,2015,431999,446910,35706,petrol,Individual,manual,1
+maruti alto k10,2011,257199,318433,70996,petrol,Individual,manual,1
+toyota innova crysta,2016,1708615,1711500,51851,diesel,Individual,automatic,2
+maruti wagon r 1.0,2013,298599,311899,62965,petrol & cng,Individual,manual,1
+hyundai i10,2011,313999,314099,52311,petrol,Individual,manual,2
+maruti wagon r,2009,209999,213265,66777,petrol,Individual,manual,3
+maruti wagon r 1.0,2015,378099,,6799,petrol & cng,Individual,manual,1
+maruti swift dzire,2014,476299,555158,155205,diesel,Individual,manual,2
+maruti swift dzire,2012,336299,393338,120777,diesel,Dealer,manual,1
+maruti dzire,2017,508499,651424,20149,petrol,Dealer,manual,2
+honda city,2012,411499,442762,51808,petrol,Dealer,automatic,2
+mercedes benz b class,2013,719499,867045,88600,diesel,Dealer,manual,2
+maruti ritz,2011,241699,,66475,petrol,Dealer,manual,1
+maruti wagon r,2010,232499,,37650,petrol,Dealer,manual,3
+maruti alto,2010,224999,,135052,petrol,Dealer,manual,2
+hyundai santro xing,2011,334199,,16261,petrol,Dealer,manual,1
+maruti swift dzire,2009,240599,243499,70988,petrol,Dealer,manual,1
+mahindra renault logan,2010,90000,,104324,diesel,Dealer,manual,1
+honda city zx,2006,100000,,53377,petrol,Dealer,,5
+maruti swift,2012,273199,349028,164127,diesel,Dealer,manual,1
+hyundai eon,2013,213599,,44854,petrol,Dealer,manual,1
+hyundai elite i20,2014,420099,516184,65178,petrol,Dealer,manual,1
+hyundai new elantra,2012,488599,,108532,diesel,Dealer,,1
+honda city,2010,353199,,113701,petrol,Dealer,manual,1
+maruti swift,2019,648899,801992,2576,petrol,Dealer,manual,1
+maruti wagon r 1.0,2017,400299,,47637,petrol & cng,Dealer,manual,1
+maruti alto k10,2015,329999,,11366,petrol,Dealer,,1
+mahindra tuv300,2016,534599,756030,34658,diesel,Dealer,manual,1
+honda city,2015,702299,870251,38614,petrol,Dealer,manual,1
+hyundai santro xing,2009,239999,240999,68306,petrol & lpg,Dealer,manual,1
+tata tiago,2016,321099,380217,83614,petrol,Dealer,manual,1
+maruti wagon r 1.0,2010,230999,243899,115045,petrol,Dealer,manual,1
+honda city,2011,317299,,73611,petrol,Dealer,manual,2
+maruti alto k10,2013,236999,,36750,petrol,Dealer,manual,1
+honda jazz,2010,231899,249712,102047,petrol,Dealer,manual,1
+hyundai santro xing,2009,181399,195000,102210,petrol,Individual,manual,3
+honda amaze,2014,325000,,68279,diesel,Dealer,manual,1
+skoda rapid,2017,826299,845651,38359,diesel,Dealer,automatic,1
+maruti celerio x,2018,391699,486131,57877,petrol & cng,Dealer,manual,1
+toyota etios,2011,200000,,106451,petrol,Dealer,manual,2
+datsun go,2015,224499,224992,63585,petrol,Dealer,manual,1
+maruti alto,2011,223999,275950,29879,petrol,Dealer,manual,2
+maruti wagon r 1.0,2018,358899,445790,32446,petrol,Dealer,manual,1
+maruti ignis,2017,555699,575120,8480,petrol,Dealer,automatic,1
+skoda rapid,2014,505999,,83429,petrol,Dealer,automatic,1
+hyundai i20,2013,328599,,45714,petrol,Individual,manual,1
+hyundai i20,2013,285199,310105,81344,diesel,Dealer,manual,2
+maruti ertiga,2015,548299,550499,148319,petrol & cng,Dealer,manual,1
+maruti celerio,2017,480000,,8865,petrol,Dealer,manual,1
+maruti wagon r 1.0,2015,247799,,207086,petrol & cng,Dealer,manual,2
+hyundai grand i10,2013,360699,415594,60133,petrol,Dealer,manual,2
+honda city,2010,388199,,98807,petrol,Dealer,automatic,3
+maruti wagon r 1.0,2012,259499,,41964,petrol & cng,Dealer,manual,2
+honda city,2010,263899,324364,122773,petrol,Dealer,manual,1
+mahindra xuv500,2012,531599,539703,163110,diesel,Dealer,manual,1
+hyundai i10,2010,130000,,124364,petrol,Dealer,manual,1
+hyundai verna,2012,358099,,67818,diesel,Dealer,manual,1
+hyundai eon,2013,208499,208599,53063,petrol,Dealer,manual,2
+datsun redi go,2018,243099,248703,1676,petrol,Dealer,manual,1
+maruti ciaz,2016,572999,,53647,petrol,Dealer,manual,1
+hyundai i10,2015,374499,,48590,petrol,Dealer,manual,1
+maruti alto 800,2016,224399,305121,23105,petrol,Dealer,manual,1
+maruti ritz,2011,262399,284545,97812,petrol,Individual,manual,1
+volkswagen vento,2011,245599,,152770,petrol,Individual,manual,3
+hyundai i10,2011,294399,317599,93562,petrol,Individual,manual,2
+maruti alto 800,2014,284399,688542,21725,petrol,Individual,manual,1
+nissan micra,2011,259099,311899,105520,diesel,Dealer,manual,1
+mahindra kuv100,2016,313099,249099,21041,petrol,Dealer,manual,1
+honda city,2010,317499,,27657,petrol,Dealer,manual,1
+hyundai elite i20,2015,678399,,20971,diesel,Dealer,manual,1
+hyundai i20,2012,298099,403217,91465,petrol,Dealer,manual,1
+maruti wagon r 1.0,2013,248999,210799,54361,petrol,Dealer,manual,2
+maruti swift dzire,2014,472699,702557,56002,petrol,Dealer,manual,1
+hyundai i10,2011,357399,303979,5044,petrol,Dealer,manual,1
+hyundai grand i10,2014,323499,,110017,petrol,Dealer,manual,1
+hyundai santro xing,2012,210699,190882,43847,petrol,Dealer,manual,3
+honda amaze,2018,681899,,12824,petrol,Dealer,manual,1
+hyundai santro xing,2014,285899,411090,94746,petrol & cng,Dealer,manual,1
+skoda rapid,2011,374499,458560,154355,diesel,Dealer,manual,1
+hyundai i10,2010,176099,1104659,111674,petrol,Individual,manual,1
+volkswagen vento,2013,420299,436500,81479,diesel,Dealer,manual,2
+mahindra kuv100,2016,369999,,27265,petrol,Dealer,manual,1
+hyundai grand i10,2015,447599,,56019,petrol,Dealer,manual,2
+hyundai creta,2019,900799,,9130,petrol,Dealer,manual,1
+maruti wagon r 1.0,2017,432099,277898,12889,petrol,Dealer,manual,1
+hyundai i20,2013,345299,618949,113370,petrol,Dealer,manual,1
+hyundai grand i10,2013,373599,,120438,petrol,Dealer,manual,1
+hyundai verna,2016,700000,,49323,petrol,Dealer,manual,1
+maruti wagon r 1.0,2012,238799,322710,98462,petrol,Dealer,manual,1
+hyundai elite i20,2017,618199,765495,10302,petrol,Individual,manual,1
+maruti wagon r 1.0,2013,329499,915922,96602,petrol & cng,Dealer,manual,4
+honda amaze,2017,550000,346599,10143,petrol,Dealer,manual,1
+maruti ritz,2013,238599,,75842,petrol,Dealer,manual,2
+maruti ertiga,2016,703899,588077,169374,diesel,Dealer,manual,1
+hyundai creta,2015,732299,,58585,petrol,Dealer,manual,1
+renault kwid,2016,346499,,30632,petrol,Dealer,manual,1
+maruti ertiga,2012,476999,769825,41547,petrol,Dealer,manual,1
+maruti baleno,2017,582299,238882,76217,diesel,Dealer,manual,2
+hyundai i20,2011,251099,311668,30746,petrol,Dealer,manual,1
+maruti wagon r 1.0,2012,302099,397697,21852,petrol,Dealer,manual,1
+maruti ertiga,2016,761399,309799,43399,diesel,Dealer,manual,1
+maruti alto 800,2016,237199,251899,57923,petrol & cng,Dealer,manual,1
+hyundai i10,2013,246499,657598,100679,petrol,Dealer,manual,1
+maruti swift,2014,376099,,39571,petrol & cng,Dealer,manual,1
+maruti swift,2012,302399,608546,82585,diesel,Dealer,manual,1
+hyundai i20,2011,251799,,80612,petrol,Dealer,manual,2
+hyundai elite i20,2015,559399,,23973,petrol,Individual,manual,1
+mercedes benz c class,2008,200000,,83474,diesel,Individual,,2
+hyundai new santro,2019,500199,,13427,petrol,Individual,,1
+hyundai eon,2014,291899,651748,29661,petrol,Individual,manual,1
+audi q3,2016,2750000,701766,68290,diesel,Individual,automatic,1
+maruti swift,2012,300000,283090,61782,petrol,Individual,manual,2
+hyundai grand i10,2013,341799,424920,85110,petrol,Individual,manual,1
+hyundai elite i20,2016,508499,1078699,88378,diesel,Individual,manual,1
+hyundai grand i10,2017,574799,853387,21830,petrol,Individual,,1
+hyundai i10,2009,228299,,97719,petrol,Individual,manual,3
+honda civic,2010,423899,,66894,petrol,Individual,automatic,3
+volkswagen jetta,2015,1052216,1032780,96631,diesel,Individual,automatic,1
+mahindra xuv500,2015,733899,,119932,diesel,Individual,manual,2
+mahindra thar,2014,420000,,78542,diesel,Individual,manual,1
+renault duster,2013,331799,529620,120039,diesel,Individual,manual,1
+mahindra scorpio,2014,880799,278933,24847,diesel,Individual,manual,1
+hyundai i10,2010,322399,,43890,petrol,Individual,manual,2
+maruti swift dzire,2013,471799,,108631,diesel,Individual,manual,2
+tata tiago,2019,453399,492532,43346,petrol,Individual,manual,1
+hyundai i10,2011,252799,,95082,petrol,Individual,manual,1
+maruti ertiga,2017,612000,359503,73340,petrol & cng,Individual,manual,1
+honda wr-v,2017,714199,459100,31874,diesel,Individual,manual,1
+hyundai verna,2013,397499,,49718,diesel,Individual,manual,1
+toyota etios,2011,402399,1205890,13579,petrol,Individual,manual,1
+maruti wagon r 1.0,2016,347699,259799,48003,petrol & cng,Dealer,manual,1
+skoda rapid,2015,457099,623420,78966,diesel,Dealer,manual,3
+hyundai santro xing,2010,263599,596151,44077,petrol & lpg,Dealer,manual,1
+hyundai creta,2017,987199,,17713,petrol,Dealer,manual,1
+hyundai i20,2010,256099,,75640,petrol,Dealer,manual,2
+maruti swift,2018,607399,,14695,petrol,Dealer,manual,1
+honda amaze,2016,504699,371299,24434,petrol,Individual,manual,1
+maruti eeco,2018,430999,,31895,petrol,Dealer,manual,1
+hyundai santro xing,2009,215899,,71417,petrol,Individual,manual,2
+maruti zen estilo,2010,184799,400560,67593,petrol,Dealer,manual,1
+hyundai i20,2011,371199,475499,38857,petrol,Individual,manual,1
+hyundai i20,2014,499000,,51261,petrol,Dealer,manual,1
+hyundai i10,2014,386099,573450,13068,petrol,Dealer,manual,1
+hyundai i20,2013,386299,275699,74457,petrol,Dealer,manual,2
+renault duster,2015,475399,612847,171979,diesel,Dealer,manual,1
+mercedes benz e class,2013,1352489,,52110,diesel,Dealer,manual,1
+hyundai grand i10,2017,460999,,10172,petrol,Dealer,manual,1
+maruti wagon r 1.0,2012,275599,,104227,petrol & cng,Dealer,manual,1
+hyundai elite i20,2015,491399,,47644,diesel,Dealer,manual,1
+renault duster,2012,484199,322799,115024,diesel,Individual,manual,2
+toyota etios,2011,380299,568404,130494,diesel,Individual,manual,1
+toyota innova,2010,530699,1784772,205948,diesel,Individual,manual,2
+maruti alto,2009,164499,691222,39622,petrol,Dealer,manual,1
+volkswagen polo,2012,322699,,38023,petrol,Dealer,manual,1
+honda city,2015,559599,,59851,petrol,Dealer,manual,1
+mg hector,2019,1477426,,83351,petrol,Dealer,,1
+honda br-v,2016,676899,789806,14173,petrol,Dealer,manual,1
+volkswagen polo,2015,474999,341956,84079,petrol,Dealer,manual,1
+mahindra scorpio,2012,390000,286805,87063,diesel,Dealer,manual,1
+tata tiago,2016,329199,735957,43387,petrol,Dealer,manual,1
+mahindra tuv300,2017,705499,,32394,diesel,Dealer,manual,1
+maruti celerio,2014,291699,651099,43981,petrol,Dealer,manual,1
+hyundai santro xing,2011,261699,,88720,petrol,Dealer,manual,1
+maruti swift,2018,589399,,50364,petrol,Dealer,manual,1
+bmw x1,2016,1818604,430185,25485,diesel,Dealer,automatic,2
+hyundai elite i20,2019,650999,,8746,petrol,Dealer,,1
+maruti alto 800,2012,202099,384599,126375,petrol,Dealer,manual,2
+hyundai verna,2014,400599,533928,186575,diesel,Individual,manual,3
+maruti alto k10,2016,361299,823167,8545,petrol,Dealer,,1
+hyundai elite i20,2014,431399,,78930,petrol & cng,Dealer,manual,2
+maruti alto k10,2016,376499,,23199,petrol,Dealer,,1
+mahindra xuv500,2012,438099,,59608,diesel,Dealer,manual,1
+maruti ertiga,2016,788499,,59802,diesel,Dealer,manual,1
+hyundai grand i10,2014,322499,2706469,138853,petrol,Dealer,manual,1
+hyundai elite i20,2015,516000,,41701,petrol,Dealer,manual,1
+hyundai elite i20,2016,650799,350873,39768,petrol,Dealer,manual,1
+volkswagen polo,2014,517299,,49253,petrol,Dealer,automatic,1
+toyota fortuner,2017,2571559,,81861,diesel,Individual,automatic,1
+mercedes benz c class,2017,3250000,566899,10579,diesel,Dealer,manual,1
+datsun go plus,2016,300399,,32405,petrol,Dealer,manual,1
+maruti wagon r,2008,138299,,77123,petrol,Dealer,manual,2
+maruti ciaz,2015,620299,,60900,petrol,Dealer,manual,1
+maruti baleno,2016,556199,,60068,petrol,Dealer,manual,1
+maruti alto k10,2015,293899,508699,12657,petrol,Dealer,manual,1
+maruti swift dzire,2013,372199,,83315,diesel,Dealer,manual,1
+hyundai i20,2010,259399,,38182,petrol,Dealer,manual,1
+nissan micra active,2016,404399,922413,63814,petrol,Dealer,manual,1
+mahindra tuv300,2016,504299,301799,69884,diesel,Dealer,manual,1
+maruti alto,2009,156599,255299,35094,petrol,Dealer,manual,1
+maruti eeco,2017,297299,230620,111095,petrol & cng,Dealer,manual,1
+hyundai creta,2015,888899,,97803,diesel,Dealer,automatic,1
+toyota etios,2011,231699,,100743,diesel,Dealer,manual,1
+maruti wagon r 1.0,2012,255199,808005,50014,petrol,Dealer,manual,1
+maruti alto k10,2013,201799,566500,99985,petrol & cng,Dealer,manual,1
+ford figo,2011,181899,,97608,petrol,Individual,manual,2
+maruti wagon r 1.0,2011,320599,249046,63165,petrol,Individual,manual,1
+maruti vitara brezza,2019,771599,,39681,diesel,Individual,manual,1
+hyundai grand i10,2018,562399,957596,21074,petrol,Individual,manual,1
+chevrolet spark,2013,180899,,28778,petrol,Individual,manual,1
+ford figo,2012,216199,799699,60930,diesel,Individual,manual,1
+kia seltos,2019,1734168,611095,5348,petrol,Individual,,1
+hyundai creta,2015,934599,,86573,diesel,Individual,,1
+toyota etios,2013,492099,407990,60472,diesel,Individual,manual,2
+ford ecosport,2018,797399,390908,71483,diesel,Individual,manual,1
+hyundai verna,2014,491399,,84023,diesel,Individual,manual,1
+maruti ertiga,2018,775000,445745,10312,petrol & cng,Individual,manual,1
+maruti swift,2014,397899,,32555,petrol,Individual,manual,1
+hyundai i10,2015,316699,,30511,petrol,Individual,manual,1
+ford figo,2010,251099,,116520,diesel,Individual,manual,2
+hyundai grand i10,2017,425699,179370,30373,petrol,Individual,manual,1
+chevrolet sail uva,2015,199799,,57445,diesel,Individual,manual,2
+maruti eeco,2010,232199,376751,51536,petrol,Individual,manual,3
+tata nano,2016,205899,244899,14330,petrol,Individual,automatic,3
+maruti alto,2010,133199,633653,42016,petrol,Individual,manual,1
+maruti zen estilo,2011,252699,,43511,petrol,Individual,manual,3
+maruti ritz,2013,323699,,57033,petrol,Individual,manual,1
+hyundai i10,2012,244799,,24076,petrol,Individual,manual,1
+maruti ciaz,2017,615099,,69848,diesel,Individual,manual,1
+tata tiago,2016,341599,,39149,petrol,Dealer,manual,1
+maruti eeco,2010,222999,,58745,petrol,Dealer,manual,2
+maruti ritz,2009,203099,428218,75433,petrol,Dealer,manual,1
+hyundai santro xing,2013,231299,,50603,petrol,Dealer,manual,1
+maruti swift dzire,2013,407799,273693,53065,diesel,Dealer,manual,1
+maruti ciaz,2014,605099,,46586,diesel,Dealer,manual,2
+maruti celerio,2016,426399,,37772,petrol & cng,Individual,manual,1
+maruti alto k10,2014,274399,,24316,petrol,Dealer,,2
+renault kwid,2016,237499,582699,44582,petrol,Individual,manual,2
+maruti ciaz,2017,630899,481076,83043,petrol,Dealer,automatic,1
+hyundai i10,2011,354199,563683,65816,petrol,Individual,automatic,2
+hyundai eon,2017,332999,423062,35926,petrol,Dealer,manual,1
+maruti swift,2019,582599,583980,12889,petrol,Dealer,manual,1
+hyundai verna,2014,456999,,74024,diesel,Dealer,manual,2
+maruti baleno,2016,533599,500870,48541,petrol,Dealer,,1
+honda city,2012,325799,427444,81212,petrol,Dealer,automatic,2
+maruti swift dzire,2014,493599,538538,87125,diesel,Dealer,manual,2
+volkswagen polo,2011,217299,1040187,61129,petrol,Dealer,manual,2
+maruti swift,2014,443599,416899,40375,diesel,Dealer,manual,1
+renault kwid,2018,422099,,3517,petrol,Individual,automatic,1
+maruti swift,2015,441799,580680,65380,petrol,Individual,manual,1
+hyundai venue,2019,1031006,435660,7857,petrol,Individual,,1
+maruti swift dzire,2014,416599,788111,88009,petrol,Dealer,manual,1
+volkswagen polo,2012,238699,,149569,diesel,Dealer,manual,1
+maruti ignis,2017,526899,,31152,petrol,Individual,automatic,1
+hyundai i20,2013,387199,,81363,diesel,Dealer,manual,2
+maruti ciaz,2017,603699,,61838,petrol,Individual,manual,1
+maruti celerio,2017,389899,,163124,petrol,Dealer,manual,1
+hyundai grand i10,2014,377199,545918,75691,petrol & cng,Individual,manual,1
+tata zest,2016,397999,829599,61903,diesel,Dealer,,1
+skoda rapid,2012,293599,310168,53525,petrol,Dealer,manual,2
+hyundai verna,2015,550000,,72206,diesel,Dealer,manual,2
+maruti eeco,2019,449199,652039,27346,petrol & cng,Dealer,manual,1
+toyota fortuner,2011,829399,313187,190068,diesel,Dealer,manual,2
+skoda rapid,2012,258499,,182075,diesel,Dealer,manual,1
+maruti swift,2018,624999,,26202,petrol,Dealer,manual,1
+maruti swift,2017,535399,,24104,petrol,Dealer,manual,1
+maruti alto k10,2017,294299,294470,18913,petrol,Individual,manual,2
+maruti wagon r,2010,150000,234300,66102,petrol,Individual,manual,1
+maruti wagon r 1.0,2012,310599,564246,40091,petrol,Individual,manual,1
+maruti zen estilo,2010,213599,,40225,petrol,Individual,manual,2
+maruti alto 800,2015,232199,787750,32821,petrol,Individual,manual,1
+maruti alto k10,2010,189699,,40666,petrol,Individual,manual,1
+volkswagen jetta,2012,448699,,88973,petrol,Individual,manual,2
+maruti 800,2002,35000,369885,77323,petrol & lpg,Individual,manual,2
+honda amaze,2018,604299,,53486,diesel,Individual,,1
+maruti ignis,2018,562599,,8854,petrol,Individual,manual,1
+honda amaze,2015,400499,,46300,petrol,Individual,manual,1
+maruti alto k10,2016,284099,,27245,petrol,Individual,manual,1

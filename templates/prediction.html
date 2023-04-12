@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+        html {
+            height: 145%;
+          }
+          body {
+            margin:0;
+            padding:0;
+            font-family: sans-serif;
+            background: linear-gradient(#03324f, #000C40);
+          }
+          
+          .login-box {
+            position: absolute;
+            top: 70%;
+            left: 50%;
+            width: 800px;
+            padding: 40px;
+            transform: translate(-50%, -50%);
+            background: rgba(0,0,0,.5);
+            box-sizing: border-box;
+            box-shadow: 0 15px 25px rgba(0,0,0,.8);
+            border-radius: 10px;
+          }
+          
+          .login-box h2 {
+            margin: 0 0 30px;
+            padding: 0;
+            color: #fff;
+            text-align: center;
+          }
+          
+          .login-box .user-box {
+            position: relative;
+          }
+          
+          .login-box .user-box input {
+            width: 100%;
+            padding: 10px 0;
+            font-size: 16px;
+            color: #fff;
+            margin-bottom: 30px;
+            border: none;
+            border-bottom: 1px solid #fff;
+            outline: none;
+            background: transparent;
+          }
+          .login-box .user-box label {
+            position: absolute;
+            top:0;
+            left: 0;
+            padding: 10px 0;
+            font-size: 16px;
+            color: #fff;
+            pointer-events: none;
+            transition: .5s;
+          }
+          
+          .login-box .user-box input:focus ~ label,
+          .login-box .user-box input:valid ~ label {
+            top: -20px;
+            left: 0;
+            color: #03e9f4;
+            font-size: 12px;
+          }
+          
+          .login-box form a {
+            position: relative;
+            display: inline-block;
+            padding: 10px 20px;
+            color: #03e9f4;
+            font-size: 16px;
+            text-decoration: none;
+            text-transform: uppercase;
+            overflow: hidden;
+            transition: .5s;
+            margin-top: 40px;
+            letter-spacing: 4px
+          }
+          
+          .login-box a:hover {
+            background: #03e9f4;
+            color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 5px #03e9f4,
+                        0 0 25px #03e9f4,
+                        0 0 50px #03e9f4,
+                        0 0 100px #03e9f4;
+          }
+          
+          .login-box a span {
+            position: absolute;
+            display: block;
+          }
+          
+          .login-box a span:nth-child(1) {
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #03e9f4);
+            animation: btn-anim1 1s linear infinite;
+          }
+          
+          @keyframes btn-anim1 {
+            0% {
+              left: -100%;
+            }
+            50%,100% {
+              left: 100%;
+            }
+          }
+          
+          .login-box a span:nth-child(2) {
+            top: -100%;
+            right: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(180deg, transparent, #03e9f4);
+            animation: btn-anim2 1s linear infinite;
+            animation-delay: .25s
+          }
+          
+          @keyframes btn-anim2 {
+            0% {
+              top: -100%;
+            }
+            50%,100% {
+              top: 100%;
+            }
+          }
+          
+          .login-box a span:nth-child(3) {
+            bottom: 0;
+            right: -100%;
+            width: 100%;
+            height: 2px;
+            background: linear-gradient(270deg, transparent, #03e9f4);
+            animation: btn-anim3 1s linear infinite;
+            animation-delay: .5s
+          }
+          
+          @keyframes btn-anim3 {
+            0% {
+              right: -100%;
+            }
+            50%,100% {
+              right: 100%;
+            }
+          }
+          
+          .login-box a span:nth-child(4) {
+            bottom: -100%;
+            left: 0;
+            width: 2px;
+            height: 100%;
+            background: linear-gradient(360deg, transparent, #03e9f4);
+            animation: btn-anim4 1s linear infinite;
+            animation-delay: .75s
+          }
+          
+          @keyframes btn-anim4 {
+            0% {
+              bottom: -100%;
+            }
+            50%,100% {
+              bottom: 100%;
+            }
+          }
+
+          .btn{
+            background-color: orangered;
+          }
+
+          .prediction_text{
+            color: beige;
+          }
+
+          select{
+            background-color: orangered;
+          }
+          .userform{
+            height: 100%;
+          }
+          
+    </style>
+  </head>
+  <body>
+    <div class="login-box">
+    <h2>Enter The Following Details</h2>
+    <form action="http://localhost:5000/y_predict" class="userform" method="post">
+
+      <div class="user-box">
+        <label>Choose the Car</label>
+        <br><br>
+        <select class="form-select" name="car_name" aria-label="Default select example">
+          <option selected>Choose Car</option>
+          <option value="alto 800">alto 800</option>
+          <option value="alto k10">alto k10</option>
+          <option value="amaze">amaze</option>
+          <option value="aspire">aspire</option>
+          <option value="audi q3">audi q3</option>
+          <option value="baleno">baleno</option>
+          <option value="bmw 3 series">bmw 3 series</option>
+          <option value="bmw x1">bmw x1</option>
+          <option value="brio">brio</option>
+          <option value="chevrolet aveo u va">chevrolet aveo u va</option>
+          <option value="chevrolet beat">chevrolet beat</option>
+          <option value="alto k10">alto k10</option>
+          <option value="chevrolet spark">chevrolet spark</option>
+          <option value="ciaz">ciaz</option>
+          <option value="city">city</option>
+          <option value="corolla">corolla</option>
+          <option value="corolla altis">corolla altis</option>
+          <option value="creta">creta</option>
+          <option value="datsun go">datsun go</option>
+          <option value="datsun go plus">datsun go plus</option>
+          <option value="datsun redi go">datsun redi go</option>
+          <option value="dzire">dzire</option>
+          <option value="elantra">elantra</option>
+          <option value="eon">eon</option>
+          <option value="ertiga">ertiga</option>
+          <option value="etios cross">etios cross</option>
+          <option value="etios g">etios g</option>
+          <option value="etios gd">etios gd</option>
+          <option value="etios liva">etios liva</option>
+          <option value="EcoSport">EcoSport</option>
+          <option value="Endeavour">Endeavour</option>
+          <option value="fiesta">fiesta</option>
+          <option value="figo">figo</option>
+          <option value="ikon">ikon</option>
+          <option value="fortuner">fortuner</option>
+          <option value="grand i10">grand i10</option>
+          <option value="brio">brio</option>
+          <option value="br-v">br-v</option>
+          <option value="City">City</option>
+          <option value="city zx">city zx</option>
+          <option value="civic">civic</option>
+          <option value="jazz">jazz</option>
+          <option value="WR-V">WR-V</option>
+          <option value="accent">accent</option>
+          <option value="elite i20">elite i20</option>
+          <option value="grand i10 nios">grand i10 nios</option>
+          <option value="i20 active">i20 active</option>
+          <option value="santro xing">santro xing</option>
+          <option value="venue">venue</option>
+          <option value="Verna">Verna</option>
+          <option value="xcent">xcent</option>
+          <option value="i10">i10</option>
+          <option value="i20">i20</option>
+          <option value="ignis">ignis</option>
+          <option value="innova">innova</option>
+          <option value="jaguar xj l">jaguar xj l</option>
+          <option value="jazz">jazz</option>
+          <option value="Seltos">Seltos</option>
+          <option value="land cruiser">land cruiser</option>
+          <option value="bolero">bolero</option>
+          <option value="e2o">e2o</option>
+          <option value="kuv100">kuv100</option>
+          <option value="logan">logan</option>
+          <option value="Scorpio">Scorpio</option>
+          <option value="Thar">Thar</option>
+          <option value="tuv300">tuv300</option>
+          <option value="Verito">Verito</option>
+          <option value="XUV500">XUV500</option>
+          <option value="a star">a star</option>
+          <option value="celerio">celerio</option>
+          <option value="celerio x">celerio x</option>
+          <option value="eco">eco</option>
+          <option value="wagon-r">wagon-r</option>
+          <option value="omni e">omni e</option>
+          <option value="s cross">s cross</option>
+          <option value="s presso">s presso</option>
+          <option value="Swift">Swift</option>
+          <option value="Vitara Brezza">Vitara Brezza</option>
+          <option value="sx4">sx4</option>
+          <option value="wagon r 1.0">wagon r 1.0</option>
+          <option value="wagon r duo">wagon r duo</option>
+          <option value="xl6">xl6</option>
+          <option value="zen estilo">zen estilo</option>
+          <option value="benz b class">benz b class</option>
+          <option value="mg hector">mg hector</option>
+          <option value="micra">micra</option>
+          <option value="micra active">micra active</option>
+          <option value="sunny">sunny</option>
+          <option value="terrano">terrano</option>
+          <option value="Captur">Captur</option>
+          <option value="Duster">Duster</option>
+          <option value="kwid">kwid</option>
+          <option value="scala">scala</option>
+          <option value="Triber">Triber</option>
+          <option value="laura">laura</option>
+          <option value="rapid">rapid</option>
+          <option value="superb">superb</option>
+          <option value="Altroz">Altroz</option>
+          <option value="hexa">hexa</option>
+          <option value="Indigo">Indigo</option>
+          <option value="indigo cs">indigo cs</option>
+          <option value="nano">nano</option>
+          <option value="Nexon">Nexon</option>
+          <option value="safari storme">safari storme</option>
+          <option value="tiago">tiago</option>
+          <option value="tigor">tigor</option>
+          <option value="zest">zest</option>
+          <option value="Innova Crysta">Innova Crysta</option>
+          <option value="verna">verna</option>
+          <option value="ameo">ameo</option>
+          <option value="polo">polo</option>
+          <option value="vento">vento</option>
+          <option value="audi a4">audi a4</option>
+          <option value="audi a6">audi a6</option>
+          <option value="audi q3">audi q3</option>
+          <option value="camry">camry</option>
+          <option value="sail uva">sail uva</option>
+          <option value="freestyle">freestyle</option>
+          <option value="accord">accord</option>
+          <option value="getz prime">getz prime</option>
+          <option value="jeep compass">jeep compass</option>
+          <option value="seltos">seltos</option>
+          <option value="tuv300">tuv300</option>
+          <option value="xylo">xylo</option>
+          <option value="benz e class">benz e class</option>
+          <option value="jetta">jetta</option>
+          <option value="passat">passat</option>
+        </select>
+      </div>
+      <br>
+
+      <div class="user-box">
+        <input name="Year" required="">
+        <label>Year Of Make</label>
+      </div>
+      
+      <div class="user-box">
+        <input name="Present_Price" required="">
+        <label>Present Price</label>
+      </div>
+
+      <div class="user-box">
+        <input name="Kms_Driven" required="">
+        <label>Kilometers Driven</label>
+      </div>
+
+      <div class="user-box">
+        <input name="Owner" required="">
+        <label>Previous Owners</label>
+      </div>
+
+      <div class="user-box">
+        <!-- <input type="text" name="Fuel_Type" required=""> -->
+        <label>Fuel Type</label>
+
+        <br>
+        <br>
+        
+        <select class="form-select" name="Fuel_Type" id="fuel" required="required">
+          <option selected>Choose Fuel Type</option>
+          <option value="Petrol">Petrol</option>
+          <option value="Diesel">Diesel</option>
+          <option value="Cng">CNG</option>
+      </select>
+
+      </div>
+
+      <div class="user-box">
+        <!-- <input type="text" name="Seller_Type" required=""> -->
+        <label>Seller Type</label>
+        <br>
+        <br>
+
+        <select class="form-select" name="Seller_Type" id="resea" required="required">
+          <option selected>Choose Seller Type</option>
+          <option value="Dealer">Dealer</option>
+          <option value="Individual">Individual</option>
+      </select>
+      </div>
+
+      <div class="user-box">
+        <!-- <input type="text" name="Transmission" required=""> -->
+        <label>Transmission Type</label>
+        <br>
+        <br>
+
+        <select class="form-select" name="Transmission" id="research" required="required">
+          <option selected>Choose Transmission Type</option>
+          <option value="Manual">Manual Car</option>
+          <option value="Automatic">Automatic Car</option>
+      </select>
+      </div>
+      <br>
+        
+
+      <!-- <a href="#">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        PREDICT
+      </a> -->
+      <br>
+      <button type="submit" class="btn btn-danger">PREDICT</button>
+   
+    </form>
+    <span></span>
+    <span></span>
+    <br>
+    <h3 class="prediction_text">{{ prediction_texts }}</h3>
+  </div>
+  </body>
+</html>
