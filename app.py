@@ -1,7 +1,6 @@
 import pickle
 import secrets
 import joblib
-import OpenSSL
 import numpy as np
 import sklearn
 from flask import Flask, flash, render_template, request,redirect,url_for
